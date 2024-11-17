@@ -1,0 +1,3838 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Crow",
+      "url": "https://eor-api.exile-studios.com/api/npcs/1",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/1/graphic"
+    },
+    {
+      "id": 2,
+      "name": "Rat",
+      "url": "https://eor-api.exile-studios.com/api/npcs/2",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/2/graphic"
+    },
+    {
+      "id": 3,
+      "name": "Chicken",
+      "url": "https://eor-api.exile-studios.com/api/npcs/3",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/3/graphic"
+    },
+    {
+      "id": 4,
+      "name": "Big Rat",
+      "url": "https://eor-api.exile-studios.com/api/npcs/4",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/4/graphic"
+    },
+    {
+      "id": 5,
+      "name": "Sheep",
+      "url": "https://eor-api.exile-studios.com/api/npcs/5",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/5/graphic"
+    },
+    {
+      "id": 6,
+      "name": "Snake",
+      "url": "https://eor-api.exile-studios.com/api/npcs/6",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/6/graphic"
+    },
+    {
+      "id": 7,
+      "name": "Goat",
+      "url": "https://eor-api.exile-studios.com/api/npcs/7",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/7/graphic"
+    },
+    {
+      "id": 8,
+      "name": "Small Bat",
+      "url": "https://eor-api.exile-studios.com/api/npcs/8",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/8/graphic"
+    },
+    {
+      "id": 9,
+      "name": "Rock",
+      "url": "https://eor-api.exile-studios.com/api/npcs/9",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/9/graphic"
+    },
+    {
+      "id": 10,
+      "name": "Drunken Pirate",
+      "url": "https://eor-api.exile-studios.com/api/npcs/10",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/10/graphic"
+    },
+    {
+      "id": 11,
+      "name": "Fierce Pirate",
+      "url": "https://eor-api.exile-studios.com/api/npcs/11",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/11/graphic"
+    },
+    {
+      "id": 12,
+      "name": "Piglet",
+      "url": "https://eor-api.exile-studios.com/api/npcs/12",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/12/graphic"
+    },
+    {
+      "id": 13,
+      "name": "Mother Piglet",
+      "url": "https://eor-api.exile-studios.com/api/npcs/13",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/13/graphic"
+    },
+    {
+      "id": 14,
+      "name": "Deep Spider",
+      "url": "https://eor-api.exile-studios.com/api/npcs/14",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/14/graphic"
+    },
+    {
+      "id": 15,
+      "name": "Shadow Golem",
+      "url": "https://eor-api.exile-studios.com/api/npcs/15",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/15/graphic"
+    },
+    {
+      "id": 16,
+      "name": "Bank Daddy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/16",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/16/graphic"
+    },
+    {
+      "id": 17,
+      "name": "Inventor",
+      "url": "https://eor-api.exile-studios.com/api/npcs/17",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/17/graphic"
+    },
+    {
+      "id": 18,
+      "name": "Import Assistant",
+      "url": "https://eor-api.exile-studios.com/api/npcs/18",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/18/graphic"
+    },
+    {
+      "id": 19,
+      "name": "Jimmy Bottle",
+      "url": "https://eor-api.exile-studios.com/api/npcs/19",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/19/graphic"
+    },
+    {
+      "id": 20,
+      "name": "Aeven Guard",
+      "url": "https://eor-api.exile-studios.com/api/npcs/20",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/20/graphic"
+    },
+    {
+      "id": 21,
+      "name": "Potion Dealer",
+      "url": "https://eor-api.exile-studios.com/api/npcs/21",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/21/graphic"
+    },
+    {
+      "id": 22,
+      "name": "Juice Adept John",
+      "url": "https://eor-api.exile-studios.com/api/npcs/22",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/22/graphic"
+    },
+    {
+      "id": 23,
+      "name": "Juice Novice Joy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/23",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/23/graphic"
+    },
+    {
+      "id": 24,
+      "name": "Juice Special Jane",
+      "url": "https://eor-api.exile-studios.com/api/npcs/24",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/24/graphic"
+    },
+    {
+      "id": 25,
+      "name": "Bartender",
+      "url": "https://eor-api.exile-studios.com/api/npcs/25",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/25/graphic"
+    },
+    {
+      "id": 26,
+      "name": "Cara Craft Merchant",
+      "url": "https://eor-api.exile-studios.com/api/npcs/26",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/26/graphic"
+    },
+    {
+      "id": 27,
+      "name": "Aeven Shavers",
+      "url": "https://eor-api.exile-studios.com/api/npcs/27",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/27/graphic"
+    },
+    {
+      "id": 28,
+      "name": "Drunk",
+      "url": "https://eor-api.exile-studios.com/api/npcs/28",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/28/graphic"
+    },
+    {
+      "id": 29,
+      "name": "Happy Berry Jane",
+      "url": "https://eor-api.exile-studios.com/api/npcs/29",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/29/graphic"
+    },
+    {
+      "id": 30,
+      "name": "Happy Berry Mike",
+      "url": "https://eor-api.exile-studios.com/api/npcs/30",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/30/graphic"
+    },
+    {
+      "id": 31,
+      "name": "Barry Trade",
+      "url": "https://eor-api.exile-studios.com/api/npcs/31",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/31/graphic"
+    },
+    {
+      "id": 32,
+      "name": "Babs Haircutter",
+      "url": "https://eor-api.exile-studios.com/api/npcs/32",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/32/graphic"
+    },
+    {
+      "id": 33,
+      "name": "Packer Piper",
+      "url": "https://eor-api.exile-studios.com/api/npcs/33",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/33/graphic"
+    },
+    {
+      "id": 34,
+      "name": "Ivy Hair Products",
+      "url": "https://eor-api.exile-studios.com/api/npcs/34",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/34/graphic"
+    },
+    {
+      "id": 35,
+      "name": "Jenny Jewels",
+      "url": "https://eor-api.exile-studios.com/api/npcs/35",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/35/graphic"
+    },
+    {
+      "id": 36,
+      "name": "Witch",
+      "url": "https://eor-api.exile-studios.com/api/npcs/36",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/36/graphic"
+    },
+    {
+      "id": 37,
+      "name": "Fallen Warrior",
+      "url": "https://eor-api.exile-studios.com/api/npcs/37",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/37/graphic"
+    },
+    {
+      "id": 38,
+      "name": "Sandal Crafter Leo",
+      "url": "https://eor-api.exile-studios.com/api/npcs/38",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/38/graphic"
+    },
+    {
+      "id": 39,
+      "name": "Boots Crafter Luke",
+      "url": "https://eor-api.exile-studios.com/api/npcs/39",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/39/graphic"
+    },
+    {
+      "id": 40,
+      "name": "Hat Crafter Hatley",
+      "url": "https://eor-api.exile-studios.com/api/npcs/40",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/40/graphic"
+    },
+    {
+      "id": 41,
+      "name": "Happy Berry Picker",
+      "url": "https://eor-api.exile-studios.com/api/npcs/41",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/41/graphic"
+    },
+    {
+      "id": 42,
+      "name": "Aeven Forger",
+      "url": "https://eor-api.exile-studios.com/api/npcs/42",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/42/graphic"
+    },
+    {
+      "id": 43,
+      "name": "Shady Doorkeeper",
+      "url": "https://eor-api.exile-studios.com/api/npcs/43",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/43/graphic"
+    },
+    {
+      "id": 44,
+      "name": "Aeven Woodcutter",
+      "url": "https://eor-api.exile-studios.com/api/npcs/44",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/44/graphic"
+    },
+    {
+      "id": 45,
+      "name": "Deep Miner",
+      "url": "https://eor-api.exile-studios.com/api/npcs/45",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/45/graphic"
+    },
+    {
+      "id": 46,
+      "name": "Aeven Guildmaster",
+      "url": "https://eor-api.exile-studios.com/api/npcs/46",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/46/graphic"
+    },
+    {
+      "id": 47,
+      "name": "Aeven Lawyer",
+      "url": "https://eor-api.exile-studios.com/api/npcs/47",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/47/graphic"
+    },
+    {
+      "id": 48,
+      "name": "Handyman Hank",
+      "url": "https://eor-api.exile-studios.com/api/npcs/48",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/48/graphic"
+    },
+    {
+      "id": 49,
+      "name": "Hubo Handy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/49",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/49/graphic"
+    },
+    {
+      "id": 50,
+      "name": "Jack Arrow",
+      "url": "https://eor-api.exile-studios.com/api/npcs/50",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/50/graphic"
+    },
+    {
+      "id": 51,
+      "name": "Sealiner Merchant",
+      "url": "https://eor-api.exile-studios.com/api/npcs/51",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/51/graphic"
+    },
+    {
+      "id": 52,
+      "name": "Creative Caroline",
+      "url": "https://eor-api.exile-studios.com/api/npcs/52",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/52/graphic"
+    },
+    {
+      "id": 53,
+      "name": "Daisy Dressup",
+      "url": "https://eor-api.exile-studios.com/api/npcs/53",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/53/graphic"
+    },
+    {
+      "id": 54,
+      "name": "Mandy Magic",
+      "url": "https://eor-api.exile-studios.com/api/npcs/54",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/54/graphic"
+    },
+    {
+      "id": 55,
+      "name": "Paul Pan",
+      "url": "https://eor-api.exile-studios.com/api/npcs/55",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/55/graphic"
+    },
+    {
+      "id": 56,
+      "name": "Wade Weapons",
+      "url": "https://eor-api.exile-studios.com/api/npcs/56",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/56/graphic"
+    },
+    {
+      "id": 57,
+      "name": "Simon Shields",
+      "url": "https://eor-api.exile-studios.com/api/npcs/57",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/57/graphic"
+    },
+    {
+      "id": 58,
+      "name": "Aeven Charger",
+      "url": "https://eor-api.exile-studios.com/api/npcs/58",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/58/graphic"
+    },
+    {
+      "id": 59,
+      "name": "Max Belts",
+      "url": "https://eor-api.exile-studios.com/api/npcs/59",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/59/graphic"
+    },
+    {
+      "id": 60,
+      "name": "Shop Bob",
+      "url": "https://eor-api.exile-studios.com/api/npcs/60",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/60/graphic"
+    },
+    {
+      "id": 61,
+      "name": "Packer Paige",
+      "url": "https://eor-api.exile-studios.com/api/npcs/61",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/61/graphic"
+    },
+    {
+      "id": 62,
+      "name": "Foreman",
+      "url": "https://eor-api.exile-studios.com/api/npcs/62",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/62/graphic"
+    },
+    {
+      "id": 63,
+      "name": "Metal Mia",
+      "url": "https://eor-api.exile-studios.com/api/npcs/63",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/63/graphic"
+    },
+    {
+      "id": 64,
+      "name": "Baby Orcy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/64",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/64/graphic"
+    },
+    {
+      "id": 65,
+      "name": "Pinky",
+      "url": "https://eor-api.exile-studios.com/api/npcs/65",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/65/graphic"
+    },
+    {
+      "id": 66,
+      "name": "Babs",
+      "url": "https://eor-api.exile-studios.com/api/npcs/66",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/66/graphic"
+    },
+    {
+      "id": 67,
+      "name": "Inn Keeper",
+      "url": "https://eor-api.exile-studios.com/api/npcs/67",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/67/graphic"
+    },
+    {
+      "id": 68,
+      "name": "Big Priest",
+      "url": "https://eor-api.exile-studios.com/api/npcs/68",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/68/graphic"
+    },
+    {
+      "id": 69,
+      "name": "Piggy Farmer",
+      "url": "https://eor-api.exile-studios.com/api/npcs/69",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/69/graphic"
+    },
+    {
+      "id": 70,
+      "name": "Very Big Hamster",
+      "url": "https://eor-api.exile-studios.com/api/npcs/70",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/70/graphic"
+    },
+    {
+      "id": 71,
+      "name": "Stronghold Chief",
+      "url": "https://eor-api.exile-studios.com/api/npcs/71",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/71/graphic"
+    },
+    {
+      "id": 72,
+      "name": "Port Master",
+      "url": "https://eor-api.exile-studios.com/api/npcs/72",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/72/graphic"
+    },
+    {
+      "id": 73,
+      "name": "Goat Collector",
+      "url": "https://eor-api.exile-studios.com/api/npcs/73",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/73/graphic"
+    },
+    {
+      "id": 74,
+      "name": "Little Eddy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/74",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/74/graphic"
+    },
+    {
+      "id": 75,
+      "name": "Dude Without Boots",
+      "url": "https://eor-api.exile-studios.com/api/npcs/75",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/75/graphic"
+    },
+    {
+      "id": 76,
+      "name": "Coconut G",
+      "url": "https://eor-api.exile-studios.com/api/npcs/76",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/76/graphic"
+    },
+    {
+      "id": 77,
+      "name": "Dolly Dusty",
+      "url": "https://eor-api.exile-studios.com/api/npcs/77",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/77/graphic"
+    },
+    {
+      "id": 78,
+      "name": "Little Spider",
+      "url": "https://eor-api.exile-studios.com/api/npcs/78",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/78/graphic"
+    },
+    {
+      "id": 79,
+      "name": "Baby Turtle",
+      "url": "https://eor-api.exile-studios.com/api/npcs/79",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/79/graphic"
+    },
+    {
+      "id": 80,
+      "name": "Crab",
+      "url": "https://eor-api.exile-studios.com/api/npcs/80",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/80/graphic"
+    },
+    {
+      "id": 81,
+      "name": "Mamba",
+      "url": "https://eor-api.exile-studios.com/api/npcs/81",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/81/graphic"
+    },
+    {
+      "id": 82,
+      "name": "Teensy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/82",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/82/graphic"
+    },
+    {
+      "id": 83,
+      "name": "Fierce Bat",
+      "url": "https://eor-api.exile-studios.com/api/npcs/83",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/83/graphic"
+    },
+    {
+      "id": 84,
+      "name": "Octo",
+      "url": "https://eor-api.exile-studios.com/api/npcs/84",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/84/graphic"
+    },
+    {
+      "id": 85,
+      "name": "Octo Tentacle",
+      "url": "https://eor-api.exile-studios.com/api/npcs/85",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/85/graphic"
+    },
+    {
+      "id": 86,
+      "name": "Coco Jaime",
+      "url": "https://eor-api.exile-studios.com/api/npcs/86",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/86/graphic"
+    },
+    {
+      "id": 87,
+      "name": "Coco Luna",
+      "url": "https://eor-api.exile-studios.com/api/npcs/87",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/87/graphic"
+    },
+    {
+      "id": 88,
+      "name": "Coco Jane",
+      "url": "https://eor-api.exile-studios.com/api/npcs/88",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/88/graphic"
+    },
+    {
+      "id": 89,
+      "name": "Coco Ray",
+      "url": "https://eor-api.exile-studios.com/api/npcs/89",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/89/graphic"
+    },
+    {
+      "id": 90,
+      "name": "Coco Jen",
+      "url": "https://eor-api.exile-studios.com/api/npcs/90",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/90/graphic"
+    },
+    {
+      "id": 91,
+      "name": "Coconut J",
+      "url": "https://eor-api.exile-studios.com/api/npcs/91",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/91/graphic"
+    },
+    {
+      "id": 92,
+      "name": "Juice-It Macie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/92",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/92/graphic"
+    },
+    {
+      "id": 93,
+      "name": "Glimmer Glan",
+      "url": "https://eor-api.exile-studios.com/api/npcs/93",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/93/graphic"
+    },
+    {
+      "id": 94,
+      "name": "Boatman",
+      "url": "https://eor-api.exile-studios.com/api/npcs/94",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/94/graphic"
+    },
+    {
+      "id": 95,
+      "name": "Boatman",
+      "url": "https://eor-api.exile-studios.com/api/npcs/95",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/95/graphic"
+    },
+    {
+      "id": 96,
+      "name": "Boatman",
+      "url": "https://eor-api.exile-studios.com/api/npcs/96",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/96/graphic"
+    },
+    {
+      "id": 97,
+      "name": "Bottle Dacie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/97",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/97/graphic"
+    },
+    {
+      "id": 98,
+      "name": "Boots Dyer Sam",
+      "url": "https://eor-api.exile-studios.com/api/npcs/98",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/98/graphic"
+    },
+    {
+      "id": 99,
+      "name": "Shaman Lilo",
+      "url": "https://eor-api.exile-studios.com/api/npcs/99",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/99/graphic"
+    },
+    {
+      "id": 100,
+      "name": "Turtle Ferryman",
+      "url": "https://eor-api.exile-studios.com/api/npcs/100",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/100/graphic"
+    },
+    {
+      "id": 101,
+      "name": "Wayfarer Leader",
+      "url": "https://eor-api.exile-studios.com/api/npcs/101",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/101/graphic"
+    },
+    {
+      "id": 102,
+      "name": "Wayfarer Scribe",
+      "url": "https://eor-api.exile-studios.com/api/npcs/102",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/102/graphic"
+    },
+    {
+      "id": 103,
+      "name": "Coco Flowi",
+      "url": "https://eor-api.exile-studios.com/api/npcs/103",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/103/graphic"
+    },
+    {
+      "id": 104,
+      "name": "Ash Fur",
+      "url": "https://eor-api.exile-studios.com/api/npcs/104",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/104/graphic"
+    },
+    {
+      "id": 105,
+      "name": "Dash Flower",
+      "url": "https://eor-api.exile-studios.com/api/npcs/105",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/105/graphic"
+    },
+    {
+      "id": 106,
+      "name": "Breeze",
+      "url": "https://eor-api.exile-studios.com/api/npcs/106",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/106/graphic"
+    },
+    {
+      "id": 107,
+      "name": "Skylar",
+      "url": "https://eor-api.exile-studios.com/api/npcs/107",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/107/graphic"
+    },
+    {
+      "id": 108,
+      "name": "Juice-It Hanna",
+      "url": "https://eor-api.exile-studios.com/api/npcs/108",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/108/graphic"
+    },
+    {
+      "id": 109,
+      "name": "Bank Mommy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/109",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/109/graphic"
+    },
+    {
+      "id": 110,
+      "name": "Debby Skylar",
+      "url": "https://eor-api.exile-studios.com/api/npcs/110",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/110/graphic"
+    },
+    {
+      "id": 111,
+      "name": "Bank Franny",
+      "url": "https://eor-api.exile-studios.com/api/npcs/111",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/111/graphic"
+    },
+    {
+      "id": 112,
+      "name": "Silly Skylar",
+      "url": "https://eor-api.exile-studios.com/api/npcs/112",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/112/graphic"
+    },
+    {
+      "id": 113,
+      "name": "Buttercup",
+      "url": "https://eor-api.exile-studios.com/api/npcs/113",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/113/graphic"
+    },
+    {
+      "id": 114,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/114",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/114/graphic"
+    },
+    {
+      "id": 115,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/115",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/115/graphic"
+    },
+    {
+      "id": 116,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/116",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/116/graphic"
+    },
+    {
+      "id": 117,
+      "name": "Magic Merchant",
+      "url": "https://eor-api.exile-studios.com/api/npcs/117",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/117/graphic"
+    },
+    {
+      "id": 118,
+      "name": "Sandal Dyer Bobby",
+      "url": "https://eor-api.exile-studios.com/api/npcs/118",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/118/graphic"
+    },
+    {
+      "id": 119,
+      "name": "Billy Broke",
+      "url": "https://eor-api.exile-studios.com/api/npcs/119",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/119/graphic"
+    },
+    {
+      "id": 120,
+      "name": "Meena Magic",
+      "url": "https://eor-api.exile-studios.com/api/npcs/120",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/120/graphic"
+    },
+    {
+      "id": 121,
+      "name": "Hungry Man",
+      "url": "https://eor-api.exile-studios.com/api/npcs/121",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/121/graphic"
+    },
+    {
+      "id": 122,
+      "name": "Ramdon Goresy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/122",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/122/graphic"
+    },
+    {
+      "id": 123,
+      "name": "Ace Armors",
+      "url": "https://eor-api.exile-studios.com/api/npcs/123",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/123/graphic"
+    },
+    {
+      "id": 124,
+      "name": "Aeven Manager",
+      "url": "https://eor-api.exile-studios.com/api/npcs/124",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/124/graphic"
+    },
+    {
+      "id": 125,
+      "name": "Franny Fish",
+      "url": "https://eor-api.exile-studios.com/api/npcs/125",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/125/graphic"
+    },
+    {
+      "id": 126,
+      "name": "Aeven Hunter",
+      "url": "https://eor-api.exile-studios.com/api/npcs/126",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/126/graphic"
+    },
+    {
+      "id": 127,
+      "name": "Quickshot",
+      "url": "https://eor-api.exile-studios.com/api/npcs/127",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/127/graphic"
+    },
+    {
+      "id": 128,
+      "name": "Elsi Snowflake",
+      "url": "https://eor-api.exile-studios.com/api/npcs/128",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/128/graphic"
+    },
+    {
+      "id": 129,
+      "name": "Jake Frost",
+      "url": "https://eor-api.exile-studios.com/api/npcs/129",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/129/graphic"
+    },
+    {
+      "id": 130,
+      "name": "Rufus Winterhats",
+      "url": "https://eor-api.exile-studios.com/api/npcs/130",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/130/graphic"
+    },
+    {
+      "id": 131,
+      "name": "Cora Potions",
+      "url": "https://eor-api.exile-studios.com/api/npcs/131",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/131/graphic"
+    },
+    {
+      "id": 132,
+      "name": "Bank Bro",
+      "url": "https://eor-api.exile-studios.com/api/npcs/132",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/132/graphic"
+    },
+    {
+      "id": 133,
+      "name": "Elenoire Jewels",
+      "url": "https://eor-api.exile-studios.com/api/npcs/133",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/133/graphic"
+    },
+    {
+      "id": 134,
+      "name": "Yuki Snowflake",
+      "url": "https://eor-api.exile-studios.com/api/npcs/134",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/134/graphic"
+    },
+    {
+      "id": 135,
+      "name": "Cody Shivers",
+      "url": "https://eor-api.exile-studios.com/api/npcs/135",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/135/graphic"
+    },
+    {
+      "id": 136,
+      "name": "Wendy Wintercloth",
+      "url": "https://eor-api.exile-studios.com/api/npcs/136",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/136/graphic"
+    },
+    {
+      "id": 137,
+      "name": "Flint Wintergloves",
+      "url": "https://eor-api.exile-studios.com/api/npcs/137",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/137/graphic"
+    },
+    {
+      "id": 138,
+      "name": "Sindy Sew",
+      "url": "https://eor-api.exile-studios.com/api/npcs/138",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/138/graphic"
+    },
+    {
+      "id": 139,
+      "name": "Ice Forger",
+      "url": "https://eor-api.exile-studios.com/api/npcs/139",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/139/graphic"
+    },
+    {
+      "id": 140,
+      "name": "Ice Ranger",
+      "url": "https://eor-api.exile-studios.com/api/npcs/140",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/140/graphic"
+    },
+    {
+      "id": 141,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/141",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/141/graphic"
+    },
+    {
+      "id": 142,
+      "name": "Gnomi",
+      "url": "https://eor-api.exile-studios.com/api/npcs/142",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/142/graphic"
+    },
+    {
+      "id": 143,
+      "name": "Gnomi",
+      "url": "https://eor-api.exile-studios.com/api/npcs/143",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/143/graphic"
+    },
+    {
+      "id": 144,
+      "name": "VV Hostess",
+      "url": "https://eor-api.exile-studios.com/api/npcs/144",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/144/graphic"
+    },
+    {
+      "id": 145,
+      "name": "VV Bartender",
+      "url": "https://eor-api.exile-studios.com/api/npcs/145",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/145/graphic"
+    },
+    {
+      "id": 146,
+      "name": "VV Waitress",
+      "url": "https://eor-api.exile-studios.com/api/npcs/146",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/146/graphic"
+    },
+    {
+      "id": 147,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/147",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/147/graphic"
+    },
+    {
+      "id": 148,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/148",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/148/graphic"
+    },
+    {
+      "id": 149,
+      "name": "Disco",
+      "url": "https://eor-api.exile-studios.com/api/npcs/149",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/149/graphic"
+    },
+    {
+      "id": 150,
+      "name": "Vector",
+      "url": "https://eor-api.exile-studios.com/api/npcs/150",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/150/graphic"
+    },
+    {
+      "id": 151,
+      "name": "Scripto",
+      "url": "https://eor-api.exile-studios.com/api/npcs/151",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/151/graphic"
+    },
+    {
+      "id": 152,
+      "name": "Pixel",
+      "url": "https://eor-api.exile-studios.com/api/npcs/152",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/152/graphic"
+    },
+    {
+      "id": 153,
+      "name": "Researcher AG-A",
+      "url": "https://eor-api.exile-studios.com/api/npcs/153",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/153/graphic"
+    },
+    {
+      "id": 154,
+      "name": "Researcher AG-S",
+      "url": "https://eor-api.exile-studios.com/api/npcs/154",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/154/graphic"
+    },
+    {
+      "id": 155,
+      "name": "Laptop AG-A",
+      "url": "https://eor-api.exile-studios.com/api/npcs/155",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/155/graphic"
+    },
+    {
+      "id": 156,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/156",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/156/graphic"
+    },
+    {
+      "id": 157,
+      "name": "Craft Table",
+      "url": "https://eor-api.exile-studios.com/api/npcs/157",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/157/graphic"
+    },
+    {
+      "id": 158,
+      "name": "Arena Manager",
+      "url": "https://eor-api.exile-studios.com/api/npcs/158",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/158/graphic"
+    },
+    {
+      "id": 159,
+      "name": "Arena Doorkeeper",
+      "url": "https://eor-api.exile-studios.com/api/npcs/159",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/159/graphic"
+    },
+    {
+      "id": 160,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/160",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/160/graphic"
+    },
+    {
+      "id": 161,
+      "name": "Core Master",
+      "url": "https://eor-api.exile-studios.com/api/npcs/161",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/161/graphic"
+    },
+    {
+      "id": 162,
+      "name": "Core Merger",
+      "url": "https://eor-api.exile-studios.com/api/npcs/162",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/162/graphic"
+    },
+    {
+      "id": 163,
+      "name": "Mine Shop",
+      "url": "https://eor-api.exile-studios.com/api/npcs/163",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/163/graphic"
+    },
+    {
+      "id": 164,
+      "name": "Mine Chief",
+      "url": "https://eor-api.exile-studios.com/api/npcs/164",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/164/graphic"
+    },
+    {
+      "id": 165,
+      "name": "Rock Collector",
+      "url": "https://eor-api.exile-studios.com/api/npcs/165",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/165/graphic"
+    },
+    {
+      "id": 166,
+      "name": "Billy Farmhand",
+      "url": "https://eor-api.exile-studios.com/api/npcs/166",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/166/graphic"
+    },
+    {
+      "id": 167,
+      "name": "Walter Wood",
+      "url": "https://eor-api.exile-studios.com/api/npcs/167",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/167/graphic"
+    },
+    {
+      "id": 168,
+      "name": "Omelette Ollie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/168",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/168/graphic"
+    },
+    {
+      "id": 169,
+      "name": "Ronald Milk",
+      "url": "https://eor-api.exile-studios.com/api/npcs/169",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/169/graphic"
+    },
+    {
+      "id": 170,
+      "name": "Gio Glue",
+      "url": "https://eor-api.exile-studios.com/api/npcs/170",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/170/graphic"
+    },
+    {
+      "id": 171,
+      "name": "Danny Dressup",
+      "url": "https://eor-api.exile-studios.com/api/npcs/171",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/171/graphic"
+    },
+    {
+      "id": 172,
+      "name": "Milk Bottle Station",
+      "url": "https://eor-api.exile-studios.com/api/npcs/172",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/172/graphic"
+    },
+    {
+      "id": 173,
+      "name": "Textile Machine",
+      "url": "https://eor-api.exile-studios.com/api/npcs/173",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/173/graphic"
+    },
+    {
+      "id": 174,
+      "name": "Thread Machine",
+      "url": "https://eor-api.exile-studios.com/api/npcs/174",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/174/graphic"
+    },
+    {
+      "id": 175,
+      "name": "Leather Machine",
+      "url": "https://eor-api.exile-studios.com/api/npcs/175",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/175/graphic"
+    },
+    {
+      "id": 176,
+      "name": "Basic Furnace",
+      "url": "https://eor-api.exile-studios.com/api/npcs/176",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/176/graphic"
+    },
+    {
+      "id": 177,
+      "name": "Little Pokey",
+      "url": "https://eor-api.exile-studios.com/api/npcs/177",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/177/graphic"
+    },
+    {
+      "id": 178,
+      "name": "Runaway Piggy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/178",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/178/graphic"
+    },
+    {
+      "id": 179,
+      "name": "Conductor",
+      "url": "https://eor-api.exile-studios.com/api/npcs/179",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/179/graphic"
+    },
+    {
+      "id": 180,
+      "name": "Conductor",
+      "url": "https://eor-api.exile-studios.com/api/npcs/180",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/180/graphic"
+    },
+    {
+      "id": 181,
+      "name": "Conductor",
+      "url": "https://eor-api.exile-studios.com/api/npcs/181",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/181/graphic"
+    },
+    {
+      "id": 182,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/182",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/182/graphic"
+    },
+    {
+      "id": 183,
+      "name": "Florabella",
+      "url": "https://eor-api.exile-studios.com/api/npcs/183",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/183/graphic"
+    },
+    {
+      "id": 184,
+      "name": "Little Chick",
+      "url": "https://eor-api.exile-studios.com/api/npcs/184",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/184/graphic"
+    },
+    {
+      "id": 185,
+      "name": "Stealmite",
+      "url": "https://eor-api.exile-studios.com/api/npcs/185",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/185/graphic"
+    },
+    {
+      "id": 186,
+      "name": "Pogo",
+      "url": "https://eor-api.exile-studios.com/api/npcs/186",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/186/graphic"
+    },
+    {
+      "id": 187,
+      "name": "Sky Fox",
+      "url": "https://eor-api.exile-studios.com/api/npcs/187",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/187/graphic"
+    },
+    {
+      "id": 188,
+      "name": "Phoenix Griffon",
+      "url": "https://eor-api.exile-studios.com/api/npcs/188",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/188/graphic"
+    },
+    {
+      "id": 189,
+      "name": "Phoenix Spawn",
+      "url": "https://eor-api.exile-studios.com/api/npcs/189",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/189/graphic"
+    },
+    {
+      "id": 190,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/190",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/190/graphic"
+    },
+    {
+      "id": 191,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/191",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/191/graphic"
+    },
+    {
+      "id": 192,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/192",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/192/graphic"
+    },
+    {
+      "id": 193,
+      "name": "Field Soldier",
+      "url": "https://eor-api.exile-studios.com/api/npcs/193",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/193/graphic"
+    },
+    {
+      "id": 194,
+      "name": "Outpost Captain",
+      "url": "https://eor-api.exile-studios.com/api/npcs/194",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/194/graphic"
+    },
+    {
+      "id": 195,
+      "name": "Outpost Guard",
+      "url": "https://eor-api.exile-studios.com/api/npcs/195",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/195/graphic"
+    },
+    {
+      "id": 196,
+      "name": "Outpost Scout",
+      "url": "https://eor-api.exile-studios.com/api/npcs/196",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/196/graphic"
+    },
+    {
+      "id": 197,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/197",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/197/graphic"
+    },
+    {
+      "id": 198,
+      "name": "Boat Manager",
+      "url": "https://eor-api.exile-studios.com/api/npcs/198",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/198/graphic"
+    },
+    {
+      "id": 199,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/199",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/199/graphic"
+    },
+    {
+      "id": 200,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/200",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/200/graphic"
+    },
+    {
+      "id": 201,
+      "name": "Murk Mutation",
+      "url": "https://eor-api.exile-studios.com/api/npcs/201",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/201/graphic"
+    },
+    {
+      "id": 202,
+      "name": "Frog",
+      "url": "https://eor-api.exile-studios.com/api/npcs/202",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/202/graphic"
+    },
+    {
+      "id": 203,
+      "name": "Moon Frog",
+      "url": "https://eor-api.exile-studios.com/api/npcs/203",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/203/graphic"
+    },
+    {
+      "id": 204,
+      "name": "Angry Vine",
+      "url": "https://eor-api.exile-studios.com/api/npcs/204",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/204/graphic"
+    },
+    {
+      "id": 205,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/205",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/205/graphic"
+    },
+    {
+      "id": 206,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/206",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/206/graphic"
+    },
+    {
+      "id": 207,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/207",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/207/graphic"
+    },
+    {
+      "id": 208,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/208",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/208/graphic"
+    },
+    {
+      "id": 209,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/209",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/209/graphic"
+    },
+    {
+      "id": 210,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/210",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/210/graphic"
+    },
+    {
+      "id": 211,
+      "name": "Concerned Mindy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/211",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/211/graphic"
+    },
+    {
+      "id": 212,
+      "name": "Mysterious Hermit",
+      "url": "https://eor-api.exile-studios.com/api/npcs/212",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/212/graphic"
+    },
+    {
+      "id": 213,
+      "name": "Mysterious Hermit",
+      "url": "https://eor-api.exile-studios.com/api/npcs/213",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/213/graphic"
+    },
+    {
+      "id": 214,
+      "name": "Bank Maya",
+      "url": "https://eor-api.exile-studios.com/api/npcs/214",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/214/graphic"
+    },
+    {
+      "id": 215,
+      "name": "Vendor Hiro",
+      "url": "https://eor-api.exile-studios.com/api/npcs/215",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/215/graphic"
+    },
+    {
+      "id": 216,
+      "name": "Vendor Mimimo",
+      "url": "https://eor-api.exile-studios.com/api/npcs/216",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/216/graphic"
+    },
+    {
+      "id": 217,
+      "name": "Packer Hitomo",
+      "url": "https://eor-api.exile-studios.com/api/npcs/217",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/217/graphic"
+    },
+    {
+      "id": 218,
+      "name": "Panda Kopan",
+      "url": "https://eor-api.exile-studios.com/api/npcs/218",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/218/graphic"
+    },
+    {
+      "id": 219,
+      "name": "Old Hermit",
+      "url": "https://eor-api.exile-studios.com/api/npcs/219",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/219/graphic"
+    },
+    {
+      "id": 220,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/220",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/220/graphic"
+    },
+    {
+      "id": 221,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/221",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/221/graphic"
+    },
+    {
+      "id": 222,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/222",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/222/graphic"
+    },
+    {
+      "id": 223,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/223",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/223/graphic"
+    },
+    {
+      "id": 224,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/224",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/224/graphic"
+    },
+    {
+      "id": 225,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/225",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/225/graphic"
+    },
+    {
+      "id": 226,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/226",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/226/graphic"
+    },
+    {
+      "id": 227,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/227",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/227/graphic"
+    },
+    {
+      "id": 228,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/228",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/228/graphic"
+    },
+    {
+      "id": 229,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/229",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/229/graphic"
+    },
+    {
+      "id": 230,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/230",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/230/graphic"
+    },
+    {
+      "id": 231,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/231",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/231/graphic"
+    },
+    {
+      "id": 232,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/232",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/232/graphic"
+    },
+    {
+      "id": 233,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/233",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/233/graphic"
+    },
+    {
+      "id": 234,
+      "name": "Lost Soul",
+      "url": "https://eor-api.exile-studios.com/api/npcs/234",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/234/graphic"
+    },
+    {
+      "id": 235,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/235",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/235/graphic"
+    },
+    {
+      "id": 236,
+      "name": "Centaur Guard",
+      "url": "https://eor-api.exile-studios.com/api/npcs/236",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/236/graphic"
+    },
+    {
+      "id": 237,
+      "name": "Mindyrella",
+      "url": "https://eor-api.exile-studios.com/api/npcs/237",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/237/graphic"
+    },
+    {
+      "id": 238,
+      "name": "Centaur Banker",
+      "url": "https://eor-api.exile-studios.com/api/npcs/238",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/238/graphic"
+    },
+    {
+      "id": 239,
+      "name": "Centaur Guy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/239",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/239/graphic"
+    },
+    {
+      "id": 240,
+      "name": "Centaur Cita",
+      "url": "https://eor-api.exile-studios.com/api/npcs/240",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/240/graphic"
+    },
+    {
+      "id": 241,
+      "name": "Centaur Queen",
+      "url": "https://eor-api.exile-studios.com/api/npcs/241",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/241/graphic"
+    },
+    {
+      "id": 242,
+      "name": "Boat Captain",
+      "url": "https://eor-api.exile-studios.com/api/npcs/242",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/242/graphic"
+    },
+    {
+      "id": 243,
+      "name": "Boat Captain",
+      "url": "https://eor-api.exile-studios.com/api/npcs/243",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/243/graphic"
+    },
+    {
+      "id": 244,
+      "name": "Boat Captain",
+      "url": "https://eor-api.exile-studios.com/api/npcs/244",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/244/graphic"
+    },
+    {
+      "id": 245,
+      "name": "Boat Captain",
+      "url": "https://eor-api.exile-studios.com/api/npcs/245",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/245/graphic"
+    },
+    {
+      "id": 246,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/246",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/246/graphic"
+    },
+    {
+      "id": 247,
+      "name": "Not Mommy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/247",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/247/graphic"
+    },
+    {
+      "id": 248,
+      "name": "Trudy Potions",
+      "url": "https://eor-api.exile-studios.com/api/npcs/248",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/248/graphic"
+    },
+    {
+      "id": 249,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/249",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/249/graphic"
+    },
+    {
+      "id": 250,
+      "name": "Pjedro Junior",
+      "url": "https://eor-api.exile-studios.com/api/npcs/250",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/250/graphic"
+    },
+    {
+      "id": 251,
+      "name": "Pjedro's Son",
+      "url": "https://eor-api.exile-studios.com/api/npcs/251",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/251/graphic"
+    },
+    {
+      "id": 252,
+      "name": "Music Collector",
+      "url": "https://eor-api.exile-studios.com/api/npcs/252",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/252/graphic"
+    },
+    {
+      "id": 253,
+      "name": "Bard",
+      "url": "https://eor-api.exile-studios.com/api/npcs/253",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/253/graphic"
+    },
+    {
+      "id": 254,
+      "name": "Rescue Leader",
+      "url": "https://eor-api.exile-studios.com/api/npcs/254",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/254/graphic"
+    },
+    {
+      "id": 255,
+      "name": "Britney Buddies",
+      "url": "https://eor-api.exile-studios.com/api/npcs/255",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/255/graphic"
+    },
+    {
+      "id": 256,
+      "name": "Buddy Chef",
+      "url": "https://eor-api.exile-studios.com/api/npcs/256",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/256/graphic"
+    },
+    {
+      "id": 257,
+      "name": "Hilda Herbs",
+      "url": "https://eor-api.exile-studios.com/api/npcs/257",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/257/graphic"
+    },
+    {
+      "id": 258,
+      "name": "Baru Shepherd",
+      "url": "https://eor-api.exile-studios.com/api/npcs/258",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/258/graphic"
+    },
+    {
+      "id": 259,
+      "name": "Aeven Librarian",
+      "url": "https://eor-api.exile-studios.com/api/npcs/259",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/259/graphic"
+    },
+    {
+      "id": 260,
+      "name": "Book Of Knowledge",
+      "url": "https://eor-api.exile-studios.com/api/npcs/260",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/260/graphic"
+    },
+    {
+      "id": 261,
+      "name": "Book Of Wisdom",
+      "url": "https://eor-api.exile-studios.com/api/npcs/261",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/261/graphic"
+    },
+    {
+      "id": 262,
+      "name": "Book Of Skill",
+      "url": "https://eor-api.exile-studios.com/api/npcs/262",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/262/graphic"
+    },
+    {
+      "id": 263,
+      "name": "Book Of Change",
+      "url": "https://eor-api.exile-studios.com/api/npcs/263",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/263/graphic"
+    },
+    {
+      "id": 264,
+      "name": "Jimmy Camel",
+      "url": "https://eor-api.exile-studios.com/api/npcs/264",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/264/graphic"
+    },
+    {
+      "id": 265,
+      "name": "Shabby ''The Big Guy''",
+      "url": "https://eor-api.exile-studios.com/api/npcs/265",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/265/graphic"
+    },
+    {
+      "id": 266,
+      "name": "Shubba Duna",
+      "url": "https://eor-api.exile-studios.com/api/npcs/266",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/266/graphic"
+    },
+    {
+      "id": 267,
+      "name": "Bandit Banker",
+      "url": "https://eor-api.exile-studios.com/api/npcs/267",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/267/graphic"
+    },
+    {
+      "id": 268,
+      "name": "Delilah Jewels",
+      "url": "https://eor-api.exile-studios.com/api/npcs/268",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/268/graphic"
+    },
+    {
+      "id": 269,
+      "name": "Dustan Steele",
+      "url": "https://eor-api.exile-studios.com/api/npcs/269",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/269/graphic"
+    },
+    {
+      "id": 270,
+      "name": "Raider Crafter",
+      "url": "https://eor-api.exile-studios.com/api/npcs/270",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/270/graphic"
+    },
+    {
+      "id": 271,
+      "name": "Susan Sew",
+      "url": "https://eor-api.exile-studios.com/api/npcs/271",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/271/graphic"
+    },
+    {
+      "id": 272,
+      "name": "Certy Sandi",
+      "url": "https://eor-api.exile-studios.com/api/npcs/272",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/272/graphic"
+    },
+    {
+      "id": 273,
+      "name": "Cindi Sandi",
+      "url": "https://eor-api.exile-studios.com/api/npcs/273",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/273/graphic"
+    },
+    {
+      "id": 274,
+      "name": "Goldi Dressup",
+      "url": "https://eor-api.exile-studios.com/api/npcs/274",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/274/graphic"
+    },
+    {
+      "id": 275,
+      "name": "Herb Merchant",
+      "url": "https://eor-api.exile-studios.com/api/npcs/275",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/275/graphic"
+    },
+    {
+      "id": 276,
+      "name": "Gina Groomer",
+      "url": "https://eor-api.exile-studios.com/api/npcs/276",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/276/graphic"
+    },
+    {
+      "id": 277,
+      "name": "Duna Guard",
+      "url": "https://eor-api.exile-studios.com/api/npcs/277",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/277/graphic"
+    },
+    {
+      "id": 278,
+      "name": "Rocky Riptide",
+      "url": "https://eor-api.exile-studios.com/api/npcs/278",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/278/graphic"
+    },
+    {
+      "id": 279,
+      "name": "Dark Thread Machine",
+      "url": "https://eor-api.exile-studios.com/api/npcs/279",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/279/graphic"
+    },
+    {
+      "id": 280,
+      "name": "Dark Textile Machine",
+      "url": "https://eor-api.exile-studios.com/api/npcs/280",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/280/graphic"
+    },
+    {
+      "id": 281,
+      "name": "Dark Tailor",
+      "url": "https://eor-api.exile-studios.com/api/npcs/281",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/281/graphic"
+    },
+    {
+      "id": 282,
+      "name": "Flowi",
+      "url": "https://eor-api.exile-studios.com/api/npcs/282",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/282/graphic"
+    },
+    {
+      "id": 283,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/283",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/283/graphic"
+    },
+    {
+      "id": 284,
+      "name": "Hyper Carnivo",
+      "url": "https://eor-api.exile-studios.com/api/npcs/284",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/284/graphic"
+    },
+    {
+      "id": 285,
+      "name": "Death Reaper",
+      "url": "https://eor-api.exile-studios.com/api/npcs/285",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/285/graphic"
+    },
+    {
+      "id": 286,
+      "name": "Ninja Supreme",
+      "url": "https://eor-api.exile-studios.com/api/npcs/286",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/286/graphic"
+    },
+    {
+      "id": 287,
+      "name": "Ninja Guard",
+      "url": "https://eor-api.exile-studios.com/api/npcs/287",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/287/graphic"
+    },
+    {
+      "id": 288,
+      "name": "Undead",
+      "url": "https://eor-api.exile-studios.com/api/npcs/288",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/288/graphic"
+    },
+    {
+      "id": 289,
+      "name": "Carnivo",
+      "url": "https://eor-api.exile-studios.com/api/npcs/289",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/289/graphic"
+    },
+    {
+      "id": 290,
+      "name": "Butterfly",
+      "url": "https://eor-api.exile-studios.com/api/npcs/290",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/290/graphic"
+    },
+    {
+      "id": 291,
+      "name": "Cave Worm",
+      "url": "https://eor-api.exile-studios.com/api/npcs/291",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/291/graphic"
+    },
+    {
+      "id": 292,
+      "name": "Pupil Alpha",
+      "url": "https://eor-api.exile-studios.com/api/npcs/292",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/292/graphic"
+    },
+    {
+      "id": 293,
+      "name": "Pupil Optica",
+      "url": "https://eor-api.exile-studios.com/api/npcs/293",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/293/graphic"
+    },
+    {
+      "id": 294,
+      "name": "Reaper Dweller",
+      "url": "https://eor-api.exile-studios.com/api/npcs/294",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/294/graphic"
+    },
+    {
+      "id": 295,
+      "name": "Centaur",
+      "url": "https://eor-api.exile-studios.com/api/npcs/295",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/295/graphic"
+    },
+    {
+      "id": 296,
+      "name": "Centaur Warrior",
+      "url": "https://eor-api.exile-studios.com/api/npcs/296",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/296/graphic"
+    },
+    {
+      "id": 297,
+      "name": "Centaur Hunter",
+      "url": "https://eor-api.exile-studios.com/api/npcs/297",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/297/graphic"
+    },
+    {
+      "id": 298,
+      "name": "Centaur Mage",
+      "url": "https://eor-api.exile-studios.com/api/npcs/298",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/298/graphic"
+    },
+    {
+      "id": 299,
+      "name": "Centaur Queen",
+      "url": "https://eor-api.exile-studios.com/api/npcs/299",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/299/graphic"
+    },
+    {
+      "id": 300,
+      "name": "Feral Centaur",
+      "url": "https://eor-api.exile-studios.com/api/npcs/300",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/300/graphic"
+    },
+    {
+      "id": 301,
+      "name": "Stallion",
+      "url": "https://eor-api.exile-studios.com/api/npcs/301",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/301/graphic"
+    },
+    {
+      "id": 302,
+      "name": "El Frogo",
+      "url": "https://eor-api.exile-studios.com/api/npcs/302",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/302/graphic"
+    },
+    {
+      "id": 303,
+      "name": "Nut Viper",
+      "url": "https://eor-api.exile-studios.com/api/npcs/303",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/303/graphic"
+    },
+    {
+      "id": 304,
+      "name": "Sensai",
+      "url": "https://eor-api.exile-studios.com/api/npcs/304",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/304/graphic"
+    },
+    {
+      "id": 305,
+      "name": "Death Spider",
+      "url": "https://eor-api.exile-studios.com/api/npcs/305",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/305/graphic"
+    },
+    {
+      "id": 306,
+      "name": "Death Wurm",
+      "url": "https://eor-api.exile-studios.com/api/npcs/306",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/306/graphic"
+    },
+    {
+      "id": 307,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/307",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/307/graphic"
+    },
+    {
+      "id": 308,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/308",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/308/graphic"
+    },
+    {
+      "id": 309,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/309",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/309/graphic"
+    },
+    {
+      "id": 310,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/310",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/310/graphic"
+    },
+    {
+      "id": 311,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/311",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/311/graphic"
+    },
+    {
+      "id": 312,
+      "name": "Ghost",
+      "url": "https://eor-api.exile-studios.com/api/npcs/312",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/312/graphic"
+    },
+    {
+      "id": 313,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/313",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/313/graphic"
+    },
+    {
+      "id": 314,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/314",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/314/graphic"
+    },
+    {
+      "id": 315,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/315",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/315/graphic"
+    },
+    {
+      "id": 316,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/316",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/316/graphic"
+    },
+    {
+      "id": 317,
+      "name": "Ice Pixie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/317",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/317/graphic"
+    },
+    {
+      "id": 318,
+      "name": "Ice Queen",
+      "url": "https://eor-api.exile-studios.com/api/npcs/318",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/318/graphic"
+    },
+    {
+      "id": 319,
+      "name": "Snow Hog",
+      "url": "https://eor-api.exile-studios.com/api/npcs/319",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/319/graphic"
+    },
+    {
+      "id": 320,
+      "name": "Ice Fairy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/320",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/320/graphic"
+    },
+    {
+      "id": 321,
+      "name": "Snowy Deer",
+      "url": "https://eor-api.exile-studios.com/api/npcs/321",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/321/graphic"
+    },
+    {
+      "id": 322,
+      "name": "Yorki",
+      "url": "https://eor-api.exile-studios.com/api/npcs/322",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/322/graphic"
+    },
+    {
+      "id": 323,
+      "name": "Ice Crystal",
+      "url": "https://eor-api.exile-studios.com/api/npcs/323",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/323/graphic"
+    },
+    {
+      "id": 324,
+      "name": "Ice Golem",
+      "url": "https://eor-api.exile-studios.com/api/npcs/324",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/324/graphic"
+    },
+    {
+      "id": 325,
+      "name": "Yeti",
+      "url": "https://eor-api.exile-studios.com/api/npcs/325",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/325/graphic"
+    },
+    {
+      "id": 326,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/326",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/326/graphic"
+    },
+    {
+      "id": 327,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/327",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/327/graphic"
+    },
+    {
+      "id": 328,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/328",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/328/graphic"
+    },
+    {
+      "id": 329,
+      "name": "Scorpion",
+      "url": "https://eor-api.exile-studios.com/api/npcs/329",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/329/graphic"
+    },
+    {
+      "id": 330,
+      "name": "Gnome",
+      "url": "https://eor-api.exile-studios.com/api/npcs/330",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/330/graphic"
+    },
+    {
+      "id": 331,
+      "name": "Gnome Rider",
+      "url": "https://eor-api.exile-studios.com/api/npcs/331",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/331/graphic"
+    },
+    {
+      "id": 332,
+      "name": "Vyercil",
+      "url": "https://eor-api.exile-studios.com/api/npcs/332",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/332/graphic"
+    },
+    {
+      "id": 333,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/333",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/333/graphic"
+    },
+    {
+      "id": 334,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/334",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/334/graphic"
+    },
+    {
+      "id": 335,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/335",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/335/graphic"
+    },
+    {
+      "id": 336,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/336",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/336/graphic"
+    },
+    {
+      "id": 337,
+      "name": "Raider Gnome",
+      "url": "https://eor-api.exile-studios.com/api/npcs/337",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/337/graphic"
+    },
+    {
+      "id": 338,
+      "name": "Raider Gnome Rider",
+      "url": "https://eor-api.exile-studios.com/api/npcs/338",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/338/graphic"
+    },
+    {
+      "id": 339,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/339",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/339/graphic"
+    },
+    {
+      "id": 340,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/340",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/340/graphic"
+    },
+    {
+      "id": 341,
+      "name": "Dust Devil",
+      "url": "https://eor-api.exile-studios.com/api/npcs/341",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/341/graphic"
+    },
+    {
+      "id": 342,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/342",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/342/graphic"
+    },
+    {
+      "id": 343,
+      "name": "Bigtooth",
+      "url": "https://eor-api.exile-studios.com/api/npcs/343",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/343/graphic"
+    },
+    {
+      "id": 344,
+      "name": "Jungle Biter",
+      "url": "https://eor-api.exile-studios.com/api/npcs/344",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/344/graphic"
+    },
+    {
+      "id": 345,
+      "name": "Vlinder",
+      "url": "https://eor-api.exile-studios.com/api/npcs/345",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/345/graphic"
+    },
+    {
+      "id": 346,
+      "name": "Jungi",
+      "url": "https://eor-api.exile-studios.com/api/npcs/346",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/346/graphic"
+    },
+    {
+      "id": 347,
+      "name": "Sunflow",
+      "url": "https://eor-api.exile-studios.com/api/npcs/347",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/347/graphic"
+    },
+    {
+      "id": 348,
+      "name": "Slug Worm",
+      "url": "https://eor-api.exile-studios.com/api/npcs/348",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/348/graphic"
+    },
+    {
+      "id": 349,
+      "name": "Drench Worm",
+      "url": "https://eor-api.exile-studios.com/api/npcs/349",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/349/graphic"
+    },
+    {
+      "id": 350,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/350",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/350/graphic"
+    },
+    {
+      "id": 351,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/351",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/351/graphic"
+    },
+    {
+      "id": 352,
+      "name": "Monkey The Explorer",
+      "url": "https://eor-api.exile-studios.com/api/npcs/352",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/352/graphic"
+    },
+    {
+      "id": 353,
+      "name": "Monkey Brother",
+      "url": "https://eor-api.exile-studios.com/api/npcs/353",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/353/graphic"
+    },
+    {
+      "id": 354,
+      "name": "Wise Monkey",
+      "url": "https://eor-api.exile-studios.com/api/npcs/354",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/354/graphic"
+    },
+    {
+      "id": 355,
+      "name": "King Bongo",
+      "url": "https://eor-api.exile-studios.com/api/npcs/355",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/355/graphic"
+    },
+    {
+      "id": 356,
+      "name": "Monkey Waver",
+      "url": "https://eor-api.exile-studios.com/api/npcs/356",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/356/graphic"
+    },
+    {
+      "id": 357,
+      "name": "Monkey Waver",
+      "url": "https://eor-api.exile-studios.com/api/npcs/357",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/357/graphic"
+    },
+    {
+      "id": 358,
+      "name": "Monkey Advisor",
+      "url": "https://eor-api.exile-studios.com/api/npcs/358",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/358/graphic"
+    },
+    {
+      "id": 359,
+      "name": "Monkey Mom",
+      "url": "https://eor-api.exile-studios.com/api/npcs/359",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/359/graphic"
+    },
+    {
+      "id": 360,
+      "name": "Monkey Fairy Arms",
+      "url": "https://eor-api.exile-studios.com/api/npcs/360",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/360/graphic"
+    },
+    {
+      "id": 361,
+      "name": "Monkey Fairy Jewels",
+      "url": "https://eor-api.exile-studios.com/api/npcs/361",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/361/graphic"
+    },
+    {
+      "id": 362,
+      "name": "Monkey Fairy Outfitter",
+      "url": "https://eor-api.exile-studios.com/api/npcs/362",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/362/graphic"
+    },
+    {
+      "id": 363,
+      "name": "Monkey",
+      "url": "https://eor-api.exile-studios.com/api/npcs/363",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/363/graphic"
+    },
+    {
+      "id": 364,
+      "name": "Ape",
+      "url": "https://eor-api.exile-studios.com/api/npcs/364",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/364/graphic"
+    },
+    {
+      "id": 365,
+      "name": "Bongbong",
+      "url": "https://eor-api.exile-studios.com/api/npcs/365",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/365/graphic"
+    },
+    {
+      "id": 366,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/366",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/366/graphic"
+    },
+    {
+      "id": 367,
+      "name": "Hopeless Pirate",
+      "url": "https://eor-api.exile-studios.com/api/npcs/367",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/367/graphic"
+    },
+    {
+      "id": 368,
+      "name": "Nibby",
+      "url": "https://eor-api.exile-studios.com/api/npcs/368",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/368/graphic"
+    },
+    {
+      "id": 369,
+      "name": "Scared Warrior",
+      "url": "https://eor-api.exile-studios.com/api/npcs/369",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/369/graphic"
+    },
+    {
+      "id": 370,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/370",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/370/graphic"
+    },
+    {
+      "id": 371,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/371",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/371/graphic"
+    },
+    {
+      "id": 372,
+      "name": "Retired Captain",
+      "url": "https://eor-api.exile-studios.com/api/npcs/372",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/372/graphic"
+    },
+    {
+      "id": 373,
+      "name": "Retired Captain",
+      "url": "https://eor-api.exile-studios.com/api/npcs/373",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/373/graphic"
+    },
+    {
+      "id": 374,
+      "name": "Retired Captain",
+      "url": "https://eor-api.exile-studios.com/api/npcs/374",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/374/graphic"
+    },
+    {
+      "id": 375,
+      "name": "Retired Captain",
+      "url": "https://eor-api.exile-studios.com/api/npcs/375",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/375/graphic"
+    },
+    {
+      "id": 376,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/376",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/376/graphic"
+    },
+    {
+      "id": 377,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/377",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/377/graphic"
+    },
+    {
+      "id": 378,
+      "name": "Blackbeard",
+      "url": "https://eor-api.exile-studios.com/api/npcs/378",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/378/graphic"
+    },
+    {
+      "id": 379,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/379",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/379/graphic"
+    },
+    {
+      "id": 380,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/380",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/380/graphic"
+    },
+    {
+      "id": 381,
+      "name": "Game Host",
+      "url": "https://eor-api.exile-studios.com/api/npcs/381",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/381/graphic"
+    },
+    {
+      "id": 382,
+      "name": "Game Host",
+      "url": "https://eor-api.exile-studios.com/api/npcs/382",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/382/graphic"
+    },
+    {
+      "id": 383,
+      "name": "Flynn Fly",
+      "url": "https://eor-api.exile-studios.com/api/npcs/383",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/383/graphic"
+    },
+    {
+      "id": 384,
+      "name": "Steward Snowy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/384",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/384/graphic"
+    },
+    {
+      "id": 385,
+      "name": "Simon Sky",
+      "url": "https://eor-api.exile-studios.com/api/npcs/385",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/385/graphic"
+    },
+    {
+      "id": 386,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/386",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/386/graphic"
+    },
+    {
+      "id": 387,
+      "name": "Holly High",
+      "url": "https://eor-api.exile-studios.com/api/npcs/387",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/387/graphic"
+    },
+    {
+      "id": 388,
+      "name": "Holly High",
+      "url": "https://eor-api.exile-studios.com/api/npcs/388",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/388/graphic"
+    },
+    {
+      "id": 389,
+      "name": "Holly High",
+      "url": "https://eor-api.exile-studios.com/api/npcs/389",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/389/graphic"
+    },
+    {
+      "id": 390,
+      "name": "Holly High",
+      "url": "https://eor-api.exile-studios.com/api/npcs/390",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/390/graphic"
+    },
+    {
+      "id": 391,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/391",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/391/graphic"
+    },
+    {
+      "id": 392,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/392",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/392/graphic"
+    },
+    {
+      "id": 393,
+      "name": "Cash Daddy",
+      "url": "https://eor-api.exile-studios.com/api/npcs/393",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/393/graphic"
+    },
+    {
+      "id": 394,
+      "name": "Maya Jewels",
+      "url": "https://eor-api.exile-studios.com/api/npcs/394",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/394/graphic"
+    },
+    {
+      "id": 395,
+      "name": "Plato Plates",
+      "url": "https://eor-api.exile-studios.com/api/npcs/395",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/395/graphic"
+    },
+    {
+      "id": 396,
+      "name": "Gaia Gear",
+      "url": "https://eor-api.exile-studios.com/api/npcs/396",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/396/graphic"
+    },
+    {
+      "id": 397,
+      "name": "Plato Arms",
+      "url": "https://eor-api.exile-studios.com/api/npcs/397",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/397/graphic"
+    },
+    {
+      "id": 398,
+      "name": "Metal Worker",
+      "url": "https://eor-api.exile-studios.com/api/npcs/398",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/398/graphic"
+    },
+    {
+      "id": 399,
+      "name": "Gardener",
+      "url": "https://eor-api.exile-studios.com/api/npcs/399",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/399/graphic"
+    },
+    {
+      "id": 400,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/400",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/400/graphic"
+    },
+    {
+      "id": 401,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/401",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/401/graphic"
+    },
+    {
+      "id": 402,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/402",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/402/graphic"
+    },
+    {
+      "id": 403,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/403",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/403/graphic"
+    },
+    {
+      "id": 404,
+      "name": "Alpha Terminal",
+      "url": "https://eor-api.exile-studios.com/api/npcs/404",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/404/graphic"
+    },
+    {
+      "id": 405,
+      "name": "Alpha Terminal",
+      "url": "https://eor-api.exile-studios.com/api/npcs/405",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/405/graphic"
+    },
+    {
+      "id": 406,
+      "name": "Alpha",
+      "url": "https://eor-api.exile-studios.com/api/npcs/406",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/406/graphic"
+    },
+    {
+      "id": 407,
+      "name": "Shroom",
+      "url": "https://eor-api.exile-studios.com/api/npcs/407",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/407/graphic"
+    },
+    {
+      "id": 408,
+      "name": "Fungi",
+      "url": "https://eor-api.exile-studios.com/api/npcs/408",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/408/graphic"
+    },
+    {
+      "id": 409,
+      "name": "Fungus",
+      "url": "https://eor-api.exile-studios.com/api/npcs/409",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/409/graphic"
+    },
+    {
+      "id": 410,
+      "name": "Schimmel",
+      "url": "https://eor-api.exile-studios.com/api/npcs/410",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/410/graphic"
+    },
+    {
+      "id": 411,
+      "name": "Schimmel Spore",
+      "url": "https://eor-api.exile-studios.com/api/npcs/411",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/411/graphic"
+    },
+    {
+      "id": 412,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/412",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/412/graphic"
+    },
+    {
+      "id": 413,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/413",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/413/graphic"
+    },
+    {
+      "id": 414,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/414",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/414/graphic"
+    },
+    {
+      "id": 415,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/415",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/415/graphic"
+    },
+    {
+      "id": 416,
+      "name": "Tile",
+      "url": "https://eor-api.exile-studios.com/api/npcs/416",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/416/graphic"
+    },
+    {
+      "id": 417,
+      "name": "Crane",
+      "url": "https://eor-api.exile-studios.com/api/npcs/417",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/417/graphic"
+    },
+    {
+      "id": 418,
+      "name": "Scan",
+      "url": "https://eor-api.exile-studios.com/api/npcs/418",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/418/graphic"
+    },
+    {
+      "id": 419,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/419",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/419/graphic"
+    },
+    {
+      "id": 420,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/420",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/420/graphic"
+    },
+    {
+      "id": 421,
+      "name": "Proto",
+      "url": "https://eor-api.exile-studios.com/api/npcs/421",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/421/graphic"
+    },
+    {
+      "id": 422,
+      "name": "Super Proto",
+      "url": "https://eor-api.exile-studios.com/api/npcs/422",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/422/graphic"
+    },
+    {
+      "id": 423,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/423",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/423/graphic"
+    },
+    {
+      "id": 424,
+      "name": "Operator 1",
+      "url": "https://eor-api.exile-studios.com/api/npcs/424",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/424/graphic"
+    },
+    {
+      "id": 425,
+      "name": "Operator 2",
+      "url": "https://eor-api.exile-studios.com/api/npcs/425",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/425/graphic"
+    },
+    {
+      "id": 426,
+      "name": "Operator 3",
+      "url": "https://eor-api.exile-studios.com/api/npcs/426",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/426/graphic"
+    },
+    {
+      "id": 427,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/427",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/427/graphic"
+    },
+    {
+      "id": 428,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/428",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/428/graphic"
+    },
+    {
+      "id": 429,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/429",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/429/graphic"
+    },
+    {
+      "id": 430,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/430",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/430/graphic"
+    },
+    {
+      "id": 431,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/431",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/431/graphic"
+    },
+    {
+      "id": 432,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/432",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/432/graphic"
+    },
+    {
+      "id": 433,
+      "name": "Crabby",
+      "url": "https://eor-api.exile-studios.com/api/npcs/433",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/433/graphic"
+    },
+    {
+      "id": 434,
+      "name": "Crabby",
+      "url": "https://eor-api.exile-studios.com/api/npcs/434",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/434/graphic"
+    },
+    {
+      "id": 435,
+      "name": "Seaby",
+      "url": "https://eor-api.exile-studios.com/api/npcs/435",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/435/graphic"
+    },
+    {
+      "id": 436,
+      "name": "Seahorsey",
+      "url": "https://eor-api.exile-studios.com/api/npcs/436",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/436/graphic"
+    },
+    {
+      "id": 437,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/437",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/437/graphic"
+    },
+    {
+      "id": 438,
+      "name": "Kelp Fish",
+      "url": "https://eor-api.exile-studios.com/api/npcs/438",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/438/graphic"
+    },
+    {
+      "id": 439,
+      "name": "Gold Fish",
+      "url": "https://eor-api.exile-studios.com/api/npcs/439",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/439/graphic"
+    },
+    {
+      "id": 440,
+      "name": "Fin Fish",
+      "url": "https://eor-api.exile-studios.com/api/npcs/440",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/440/graphic"
+    },
+    {
+      "id": 441,
+      "name": "Big Blue",
+      "url": "https://eor-api.exile-studios.com/api/npcs/441",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/441/graphic"
+    },
+    {
+      "id": 442,
+      "name": "Lummer",
+      "url": "https://eor-api.exile-studios.com/api/npcs/442",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/442/graphic"
+    },
+    {
+      "id": 443,
+      "name": "Murene",
+      "url": "https://eor-api.exile-studios.com/api/npcs/443",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/443/graphic"
+    },
+    {
+      "id": 444,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/444",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/444/graphic"
+    },
+    {
+      "id": 445,
+      "name": "Devil Fish",
+      "url": "https://eor-api.exile-studios.com/api/npcs/445",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/445/graphic"
+    },
+    {
+      "id": 446,
+      "name": "Deep Shark",
+      "url": "https://eor-api.exile-studios.com/api/npcs/446",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/446/graphic"
+    },
+    {
+      "id": 447,
+      "name": "Big Shark",
+      "url": "https://eor-api.exile-studios.com/api/npcs/447",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/447/graphic"
+    },
+    {
+      "id": 448,
+      "name": "Captain Scuba",
+      "url": "https://eor-api.exile-studios.com/api/npcs/448",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/448/graphic"
+    },
+    {
+      "id": 449,
+      "name": "Captain Scuba",
+      "url": "https://eor-api.exile-studios.com/api/npcs/449",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/449/graphic"
+    },
+    {
+      "id": 450,
+      "name": "Captain Scuba",
+      "url": "https://eor-api.exile-studios.com/api/npcs/450",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/450/graphic"
+    },
+    {
+      "id": 451,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/451",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/451/graphic"
+    },
+    {
+      "id": 452,
+      "name": "King Neptune",
+      "url": "https://eor-api.exile-studios.com/api/npcs/452",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/452/graphic"
+    },
+    {
+      "id": 453,
+      "name": "Neptune's Adviser",
+      "url": "https://eor-api.exile-studios.com/api/npcs/453",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/453/graphic"
+    },
+    {
+      "id": 454,
+      "name": "Fish Guard",
+      "url": "https://eor-api.exile-studios.com/api/npcs/454",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/454/graphic"
+    },
+    {
+      "id": 455,
+      "name": "Fish Guard",
+      "url": "https://eor-api.exile-studios.com/api/npcs/455",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/455/graphic"
+    },
+    {
+      "id": 456,
+      "name": "Shelldon",
+      "url": "https://eor-api.exile-studios.com/api/npcs/456",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/456/graphic"
+    },
+    {
+      "id": 457,
+      "name": "Merman Quickspear",
+      "url": "https://eor-api.exile-studios.com/api/npcs/457",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/457/graphic"
+    },
+    {
+      "id": 458,
+      "name": "Deepsea Fisher",
+      "url": "https://eor-api.exile-studios.com/api/npcs/458",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/458/graphic"
+    },
+    {
+      "id": 459,
+      "name": "Ancient Collector",
+      "url": "https://eor-api.exile-studios.com/api/npcs/459",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/459/graphic"
+    },
+    {
+      "id": 460,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/460",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/460/graphic"
+    },
+    {
+      "id": 461,
+      "name": "Elfish",
+      "url": "https://eor-api.exile-studios.com/api/npcs/461",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/461/graphic"
+    },
+    {
+      "id": 462,
+      "name": "Jazzapus",
+      "url": "https://eor-api.exile-studios.com/api/npcs/462",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/462/graphic"
+    },
+    {
+      "id": 463,
+      "name": "Celloshark",
+      "url": "https://eor-api.exile-studios.com/api/npcs/463",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/463/graphic"
+    },
+    {
+      "id": 464,
+      "name": "Crispy Crab",
+      "url": "https://eor-api.exile-studios.com/api/npcs/464",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/464/graphic"
+    },
+    {
+      "id": 465,
+      "name": "Crabby Cook",
+      "url": "https://eor-api.exile-studios.com/api/npcs/465",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/465/graphic"
+    },
+    {
+      "id": 466,
+      "name": "Jackie Crab",
+      "url": "https://eor-api.exile-studios.com/api/npcs/466",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/466/graphic"
+    },
+    {
+      "id": 467,
+      "name": "Deep Researcher",
+      "url": "https://eor-api.exile-studios.com/api/npcs/467",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/467/graphic"
+    },
+    {
+      "id": 468,
+      "name": "Deep Researcher",
+      "url": "https://eor-api.exile-studios.com/api/npcs/468",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/468/graphic"
+    },
+    {
+      "id": 469,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/469",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/469/graphic"
+    },
+    {
+      "id": 470,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/470",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/470/graphic"
+    },
+    {
+      "id": 471,
+      "name": "Elfish Bartender",
+      "url": "https://eor-api.exile-studios.com/api/npcs/471",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/471/graphic"
+    },
+    {
+      "id": 472,
+      "name": "Elfish Visitor",
+      "url": "https://eor-api.exile-studios.com/api/npcs/472",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/472/graphic"
+    },
+    {
+      "id": 473,
+      "name": "Elfish Groupie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/473",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/473/graphic"
+    },
+    {
+      "id": 474,
+      "name": "Elfish Groupie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/474",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/474/graphic"
+    },
+    {
+      "id": 475,
+      "name": "Elfish Groupie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/475",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/475/graphic"
+    },
+    {
+      "id": 476,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/476",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/476/graphic"
+    },
+    {
+      "id": 477,
+      "name": "Da-pinchi Potions",
+      "url": "https://eor-api.exile-studios.com/api/npcs/477",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/477/graphic"
+    },
+    {
+      "id": 478,
+      "name": "Marina Dressup",
+      "url": "https://eor-api.exile-studios.com/api/npcs/478",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/478/graphic"
+    },
+    {
+      "id": 479,
+      "name": "Creative Sirena",
+      "url": "https://eor-api.exile-studios.com/api/npcs/479",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/479/graphic"
+    },
+    {
+      "id": 480,
+      "name": "Finny's Jewels",
+      "url": "https://eor-api.exile-studios.com/api/npcs/480",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/480/graphic"
+    },
+    {
+      "id": 481,
+      "name": "Bob Beltide",
+      "url": "https://eor-api.exile-studios.com/api/npcs/481",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/481/graphic"
+    },
+    {
+      "id": 482,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/482",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/482/graphic"
+    },
+    {
+      "id": 483,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/483",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/483/graphic"
+    },
+    {
+      "id": 484,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/484",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/484/graphic"
+    },
+    {
+      "id": 485,
+      "name": "Greedy Crab",
+      "url": "https://eor-api.exile-studios.com/api/npcs/485",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/485/graphic"
+    },
+    {
+      "id": 486,
+      "name": "Megamoogle",
+      "url": "https://eor-api.exile-studios.com/api/npcs/486",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/486/graphic"
+    },
+    {
+      "id": 487,
+      "name": "Remi",
+      "url": "https://eor-api.exile-studios.com/api/npcs/487",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/487/graphic"
+    },
+    {
+      "id": 488,
+      "name": "Old Merchant",
+      "url": "https://eor-api.exile-studios.com/api/npcs/488",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/488/graphic"
+    },
+    {
+      "id": 489,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/489",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/489/graphic"
+    },
+    {
+      "id": 490,
+      "name": "Bank Shade",
+      "url": "https://eor-api.exile-studios.com/api/npcs/490",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/490/graphic"
+    },
+    {
+      "id": 491,
+      "name": "Potion Shade",
+      "url": "https://eor-api.exile-studios.com/api/npcs/491",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/491/graphic"
+    },
+    {
+      "id": 492,
+      "name": "Devilish Shade",
+      "url": "https://eor-api.exile-studios.com/api/npcs/492",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/492/graphic"
+    },
+    {
+      "id": 493,
+      "name": "Sparkly Shade",
+      "url": "https://eor-api.exile-studios.com/api/npcs/493",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/493/graphic"
+    },
+    {
+      "id": 494,
+      "name": "Gear Shade",
+      "url": "https://eor-api.exile-studios.com/api/npcs/494",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/494/graphic"
+    },
+    {
+      "id": 495,
+      "name": "Outfit Shade",
+      "url": "https://eor-api.exile-studios.com/api/npcs/495",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/495/graphic"
+    },
+    {
+      "id": 496,
+      "name": "Fallen Shade",
+      "url": "https://eor-api.exile-studios.com/api/npcs/496",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/496/graphic"
+    },
+    {
+      "id": 497,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/497",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/497/graphic"
+    },
+    {
+      "id": 498,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/498",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/498/graphic"
+    },
+    {
+      "id": 499,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/499",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/499/graphic"
+    },
+    {
+      "id": 500,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/500",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/500/graphic"
+    },
+    {
+      "id": 501,
+      "name": "Shadow Crawler",
+      "url": "https://eor-api.exile-studios.com/api/npcs/501",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/501/graphic"
+    },
+    {
+      "id": 502,
+      "name": "Aragorg",
+      "url": "https://eor-api.exile-studios.com/api/npcs/502",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/502/graphic"
+    },
+    {
+      "id": 503,
+      "name": "Taraduda",
+      "url": "https://eor-api.exile-studios.com/api/npcs/503",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/503/graphic"
+    },
+    {
+      "id": 504,
+      "name": "Dreadweaver",
+      "url": "https://eor-api.exile-studios.com/api/npcs/504",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/504/graphic"
+    },
+    {
+      "id": 505,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/505",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/505/graphic"
+    },
+    {
+      "id": 506,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/506",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/506/graphic"
+    },
+    {
+      "id": 507,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/507",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/507/graphic"
+    },
+    {
+      "id": 508,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/508",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/508/graphic"
+    },
+    {
+      "id": 509,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/509",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/509/graphic"
+    },
+    {
+      "id": 510,
+      "name": "Hell Guardian",
+      "url": "https://eor-api.exile-studios.com/api/npcs/510",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/510/graphic"
+    },
+    {
+      "id": 511,
+      "name": "Red Imp",
+      "url": "https://eor-api.exile-studios.com/api/npcs/511",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/511/graphic"
+    },
+    {
+      "id": 512,
+      "name": "White Imp",
+      "url": "https://eor-api.exile-studios.com/api/npcs/512",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/512/graphic"
+    },
+    {
+      "id": 513,
+      "name": "Red Flying Imp",
+      "url": "https://eor-api.exile-studios.com/api/npcs/513",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/513/graphic"
+    },
+    {
+      "id": 514,
+      "name": "White Flying Imp",
+      "url": "https://eor-api.exile-studios.com/api/npcs/514",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/514/graphic"
+    },
+    {
+      "id": 515,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/515",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/515/graphic"
+    },
+    {
+      "id": 516,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/516",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/516/graphic"
+    },
+    {
+      "id": 517,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/517",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/517/graphic"
+    },
+    {
+      "id": 518,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/518",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/518/graphic"
+    },
+    {
+      "id": 519,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/519",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/519/graphic"
+    },
+    {
+      "id": 520,
+      "name": "Blobsie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/520",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/520/graphic"
+    },
+    {
+      "id": 521,
+      "name": "Blobsie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/521",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/521/graphic"
+    },
+    {
+      "id": 522,
+      "name": "Blobsie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/522",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/522/graphic"
+    },
+    {
+      "id": 523,
+      "name": "Blobsie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/523",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/523/graphic"
+    },
+    {
+      "id": 524,
+      "name": "Blobsie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/524",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/524/graphic"
+    },
+    {
+      "id": 525,
+      "name": "Blobsie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/525",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/525/graphic"
+    },
+    {
+      "id": 526,
+      "name": "Blobsie",
+      "url": "https://eor-api.exile-studios.com/api/npcs/526",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/526/graphic"
+    },
+    {
+      "id": 527,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/527",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/527/graphic"
+    },
+    {
+      "id": 528,
+      "name": "Bull",
+      "url": "https://eor-api.exile-studios.com/api/npcs/528",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/528/graphic"
+    },
+    {
+      "id": 529,
+      "name": "Cow",
+      "url": "https://eor-api.exile-studios.com/api/npcs/529",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/529/graphic"
+    },
+    {
+      "id": 530,
+      "name": "Hog",
+      "url": "https://eor-api.exile-studios.com/api/npcs/530",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/530/graphic"
+    },
+    {
+      "id": 531,
+      "name": "Hog Mother",
+      "url": "https://eor-api.exile-studios.com/api/npcs/531",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/531/graphic"
+    },
+    {
+      "id": 532,
+      "name": "Bobber",
+      "url": "https://eor-api.exile-studios.com/api/npcs/532",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/532/graphic"
+    },
+    {
+      "id": 533,
+      "name": "Wildhog",
+      "url": "https://eor-api.exile-studios.com/api/npcs/533",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/533/graphic"
+    },
+    {
+      "id": 534,
+      "name": "Stinger",
+      "url": "https://eor-api.exile-studios.com/api/npcs/534",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/534/graphic"
+    },
+    {
+      "id": 535,
+      "name": "Hornet",
+      "url": "https://eor-api.exile-studios.com/api/npcs/535",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/535/graphic"
+    },
+    {
+      "id": 536,
+      "name": "Ant Worker",
+      "url": "https://eor-api.exile-studios.com/api/npcs/536",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/536/graphic"
+    },
+    {
+      "id": 537,
+      "name": "Ant Soldier",
+      "url": "https://eor-api.exile-studios.com/api/npcs/537",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/537/graphic"
+    },
+    {
+      "id": 538,
+      "name": "Ant Queen",
+      "url": "https://eor-api.exile-studios.com/api/npcs/538",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/538/graphic"
+    },
+    {
+      "id": 539,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/539",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/539/graphic"
+    },
+    {
+      "id": 540,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/540",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/540/graphic"
+    },
+    {
+      "id": 541,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/541",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/541/graphic"
+    },
+    {
+      "id": 542,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/542",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/542/graphic"
+    },
+    {
+      "id": 543,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/543",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/543/graphic"
+    },
+    {
+      "id": 544,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/544",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/544/graphic"
+    },
+    {
+      "id": 545,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/545",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/545/graphic"
+    },
+    {
+      "id": 546,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/546",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/546/graphic"
+    },
+    {
+      "id": 547,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/547",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/547/graphic"
+    },
+    {
+      "id": 548,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/548",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/548/graphic"
+    },
+    {
+      "id": 549,
+      "name": "Bagson McGee",
+      "url": "https://eor-api.exile-studios.com/api/npcs/549",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/549/graphic"
+    },
+    {
+      "id": 550,
+      "name": "Ticket Merchant",
+      "url": "https://eor-api.exile-studios.com/api/npcs/550",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/550/graphic"
+    },
+    {
+      "id": 551,
+      "name": "Ticket Merchant",
+      "url": "https://eor-api.exile-studios.com/api/npcs/551",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/551/graphic"
+    },
+    {
+      "id": 552,
+      "name": "Charley Coins",
+      "url": "https://eor-api.exile-studios.com/api/npcs/552",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/552/graphic"
+    },
+    {
+      "id": 553,
+      "name": "Gary Glueman",
+      "url": "https://eor-api.exile-studios.com/api/npcs/553",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/553/graphic"
+    },
+    {
+      "id": 554,
+      "name": "Guy Metalstring",
+      "url": "https://eor-api.exile-studios.com/api/npcs/554",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/554/graphic"
+    },
+    {
+      "id": 555,
+      "name": "Ivor Iron",
+      "url": "https://eor-api.exile-studios.com/api/npcs/555",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/555/graphic"
+    },
+    {
+      "id": 556,
+      "name": "Patricia Potions",
+      "url": "https://eor-api.exile-studios.com/api/npcs/556",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/556/graphic"
+    },
+    {
+      "id": 557,
+      "name": "Hattie Homestead",
+      "url": "https://eor-api.exile-studios.com/api/npcs/557",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/557/graphic"
+    },
+    {
+      "id": 558,
+      "name": "Peter Panza",
+      "url": "https://eor-api.exile-studios.com/api/npcs/558",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/558/graphic"
+    },
+    {
+      "id": 559,
+      "name": "Benny Barrelwood",
+      "url": "https://eor-api.exile-studios.com/api/npcs/559",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/559/graphic"
+    },
+    {
+      "id": 560,
+      "name": "Sab Spillman",
+      "url": "https://eor-api.exile-studios.com/api/npcs/560",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/560/graphic"
+    },
+    {
+      "id": 561,
+      "name": "Wendy Waters",
+      "url": "https://eor-api.exile-studios.com/api/npcs/561",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/561/graphic"
+    },
+    {
+      "id": 562,
+      "name": "Woody Sinwood",
+      "url": "https://eor-api.exile-studios.com/api/npcs/562",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/562/graphic"
+    },
+    {
+      "id": 563,
+      "name": "Little Toby",
+      "url": "https://eor-api.exile-studios.com/api/npcs/563",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/563/graphic"
+    },
+    {
+      "id": 564,
+      "name": "Penny Paws",
+      "url": "https://eor-api.exile-studios.com/api/npcs/564",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/564/graphic"
+    },
+    {
+      "id": 565,
+      "name": "Lost Kitty",
+      "url": "https://eor-api.exile-studios.com/api/npcs/565",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/565/graphic"
+    },
+    {
+      "id": 566,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/566",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/566/graphic"
+    },
+    {
+      "id": 567,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/567",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/567/graphic"
+    },
+    {
+      "id": 568,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/568",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/568/graphic"
+    },
+    {
+      "id": 569,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/569",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/569/graphic"
+    },
+    {
+      "id": 570,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/570",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/570/graphic"
+    },
+    {
+      "id": 571,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/571",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/571/graphic"
+    },
+    {
+      "id": 572,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/572",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/572/graphic"
+    },
+    {
+      "id": 573,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/573",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/573/graphic"
+    },
+    {
+      "id": 574,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/574",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/574/graphic"
+    },
+    {
+      "id": 575,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/575",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/575/graphic"
+    },
+    {
+      "id": 576,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/576",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/576/graphic"
+    },
+    {
+      "id": 577,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/577",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/577/graphic"
+    },
+    {
+      "id": 578,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/578",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/578/graphic"
+    },
+    {
+      "id": 579,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/579",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/579/graphic"
+    },
+    {
+      "id": 580,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/580",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/580/graphic"
+    },
+    {
+      "id": 581,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/581",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/581/graphic"
+    },
+    {
+      "id": 582,
+      "name": "Pirate Invader Scout",
+      "url": "https://eor-api.exile-studios.com/api/npcs/582",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/582/graphic"
+    },
+    {
+      "id": 583,
+      "name": "Pirate Invader Drunk",
+      "url": "https://eor-api.exile-studios.com/api/npcs/583",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/583/graphic"
+    },
+    {
+      "id": 584,
+      "name": "Pirate Invader Butcher",
+      "url": "https://eor-api.exile-studios.com/api/npcs/584",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/584/graphic"
+    },
+    {
+      "id": 585,
+      "name": "Capt 'Grimbeard' Pirate",
+      "url": "https://eor-api.exile-studios.com/api/npcs/585",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/585/graphic"
+    },
+    {
+      "id": 586,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/586",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/586/graphic"
+    },
+    {
+      "id": 587,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/587",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/587/graphic"
+    },
+    {
+      "id": 588,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/588",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/588/graphic"
+    },
+    {
+      "id": 589,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/589",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/589/graphic"
+    },
+    {
+      "id": 590,
+      "name": "Swarm Tentacle",
+      "url": "https://eor-api.exile-studios.com/api/npcs/590",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/590/graphic"
+    },
+    {
+      "id": 591,
+      "name": "Swarm Viper",
+      "url": "https://eor-api.exile-studios.com/api/npcs/591",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/591/graphic"
+    },
+    {
+      "id": 592,
+      "name": "Swarm Tentarok",
+      "url": "https://eor-api.exile-studios.com/api/npcs/592",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/592/graphic"
+    },
+    {
+      "id": 593,
+      "name": "Rot 'Swarmlord' Vein",
+      "url": "https://eor-api.exile-studios.com/api/npcs/593",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/593/graphic"
+    },
+    {
+      "id": 594,
+      "name": "Kraken Tentacle",
+      "url": "https://eor-api.exile-studios.com/api/npcs/594",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/594/graphic"
+    },
+    {
+      "id": 595,
+      "name": "Kraken Tentacle",
+      "url": "https://eor-api.exile-studios.com/api/npcs/595",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/595/graphic"
+    },
+    {
+      "id": 596,
+      "name": "Kraken 'Deepwrath' Levi",
+      "url": "https://eor-api.exile-studios.com/api/npcs/596",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/596/graphic"
+    },
+    {
+      "id": 597,
+      "name": "Kraken 'Deepwrath' Levi",
+      "url": "https://eor-api.exile-studios.com/api/npcs/597",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/597/graphic"
+    },
+    {
+      "id": 598,
+      "name": "Capture Creeper",
+      "url": "https://eor-api.exile-studios.com/api/npcs/598",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/598/graphic"
+    },
+    {
+      "id": 599,
+      "name": "Capture Snake",
+      "url": "https://eor-api.exile-studios.com/api/npcs/599",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/599/graphic"
+    },
+    {
+      "id": 600,
+      "name": "Red Guard",
+      "url": "https://eor-api.exile-studios.com/api/npcs/600",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/600/graphic"
+    },
+    {
+      "id": 601,
+      "name": "Blue Guard",
+      "url": "https://eor-api.exile-studios.com/api/npcs/601",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/601/graphic"
+    },
+    {
+      "id": 602,
+      "name": "Green Guard",
+      "url": "https://eor-api.exile-studios.com/api/npcs/602",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/602/graphic"
+    },
+    {
+      "id": 603,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/603",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/603/graphic"
+    },
+    {
+      "id": 604,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/604",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/604/graphic"
+    },
+    {
+      "id": 605,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/605",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/605/graphic"
+    },
+    {
+      "id": 606,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/606",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/606/graphic"
+    },
+    {
+      "id": 607,
+      "name": "Big Jake",
+      "url": "https://eor-api.exile-studios.com/api/npcs/607",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/607/graphic"
+    },
+    {
+      "id": 608,
+      "name": "Silent Sam",
+      "url": "https://eor-api.exile-studios.com/api/npcs/608",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/608/graphic"
+    },
+    {
+      "id": 609,
+      "name": "Syndicate Crew",
+      "url": "https://eor-api.exile-studios.com/api/npcs/609",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/609/graphic"
+    },
+    {
+      "id": 610,
+      "name": "Xmas Penguin",
+      "url": "https://eor-api.exile-studios.com/api/npcs/610",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/610/graphic"
+    },
+    {
+      "id": 611,
+      "name": "Crashed Santa",
+      "url": "https://eor-api.exile-studios.com/api/npcs/611",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/611/graphic"
+    },
+    {
+      "id": 612,
+      "name": "Crashed Santa",
+      "url": "https://eor-api.exile-studios.com/api/npcs/612",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/612/graphic"
+    },
+    {
+      "id": 613,
+      "name": "Santa's Helper",
+      "url": "https://eor-api.exile-studios.com/api/npcs/613",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/613/graphic"
+    },
+    {
+      "id": 614,
+      "name": "Swaggy Nick",
+      "url": "https://eor-api.exile-studios.com/api/npcs/614",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/614/graphic"
+    },
+    {
+      "id": 615,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/615",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/615/graphic"
+    },
+    {
+      "id": 616,
+      "name": "Present",
+      "url": "https://eor-api.exile-studios.com/api/npcs/616",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/616/graphic"
+    },
+    {
+      "id": 617,
+      "name": "Present",
+      "url": "https://eor-api.exile-studios.com/api/npcs/617",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/617/graphic"
+    },
+    {
+      "id": 618,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/618",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/618/graphic"
+    },
+    {
+      "id": 619,
+      "name": "Candy Wizzard",
+      "url": "https://eor-api.exile-studios.com/api/npcs/619",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/619/graphic"
+    },
+    {
+      "id": 620,
+      "name": "Candy Bandit",
+      "url": "https://eor-api.exile-studios.com/api/npcs/620",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/620/graphic"
+    },
+    {
+      "id": 621,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/621",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/621/graphic"
+    },
+    {
+      "id": 622,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/622",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/622/graphic"
+    },
+    {
+      "id": 623,
+      "name": "Chaos Ghost",
+      "url": "https://eor-api.exile-studios.com/api/npcs/623",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/623/graphic"
+    },
+    {
+      "id": 624,
+      "name": "Chaos Pumpkin",
+      "url": "https://eor-api.exile-studios.com/api/npcs/624",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/624/graphic"
+    },
+    {
+      "id": 625,
+      "name": "Chaos 'Pumpkin' Lord",
+      "url": "https://eor-api.exile-studios.com/api/npcs/625",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/625/graphic"
+    },
+    {
+      "id": 626,
+      "name": "Chaos 'Pumpkin' Lord",
+      "url": "https://eor-api.exile-studios.com/api/npcs/626",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/626/graphic"
+    },
+    {
+      "id": 627,
+      "name": "BarbarianTest 1",
+      "url": "https://eor-api.exile-studios.com/api/npcs/627",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/627/graphic"
+    },
+    {
+      "id": 628,
+      "name": "BarbarianTest 2",
+      "url": "https://eor-api.exile-studios.com/api/npcs/628",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/628/graphic"
+    },
+    {
+      "id": 629,
+      "name": "BarbarianTest 3",
+      "url": "https://eor-api.exile-studios.com/api/npcs/629",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/629/graphic"
+    },
+    {
+      "id": 630,
+      "name": "BarbarianTest 4",
+      "url": "https://eor-api.exile-studios.com/api/npcs/630",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/630/graphic"
+    },
+    {
+      "id": 631,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/631",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/631/graphic"
+    },
+    {
+      "id": 632,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/632",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/632/graphic"
+    },
+    {
+      "id": 633,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/633",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/633/graphic"
+    },
+    {
+      "id": 634,
+      "name": "Res",
+      "url": "https://eor-api.exile-studios.com/api/npcs/634",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/634/graphic"
+    },
+    {
+      "id": 635,
+      "name": "Firework Bob",
+      "url": "https://eor-api.exile-studios.com/api/npcs/635",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/635/graphic"
+    },
+    {
+      "id": 636,
+      "name": "Shady Dealer",
+      "url": "https://eor-api.exile-studios.com/api/npcs/636",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/636/graphic"
+    },
+    {
+      "id": 637,
+      "name": "Bush",
+      "url": "https://eor-api.exile-studios.com/api/npcs/637",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/637/graphic"
+    },
+    {
+      "id": 638,
+      "name": "Peri Peri Mole",
+      "url": "https://eor-api.exile-studios.com/api/npcs/638",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/638/graphic"
+    },
+    {
+      "id": 639,
+      "name": "Peri Peri Mole",
+      "url": "https://eor-api.exile-studios.com/api/npcs/639",
+      "graphic_url": "https://eor-api.exile-studios.com/api/npcs/639/graphic"
+    }
+  ]
+}
