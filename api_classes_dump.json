@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Wanderer",
+    "base": 0,
+    "class_type": 0,
+    "power": 0,
+    "accuracy": 0,
+    "defense": 0,
+    "dexterity": 0,
+    "vitality": 0,
+    "aura": 0
+  },
+  {
+    "id": 2,
+    "name": "Paladin",
+    "base": 0,
+    "class_type": 1,
+    "power": 0,
+    "accuracy": 0,
+    "defense": 4,
+    "dexterity": 0,
+    "vitality": 2,
+    "aura": 0
+  },
+  {
+    "id": 3,
+    "name": "Warrior",
+    "base": 0,
+    "class_type": 1,
+    "power": 4,
+    "accuracy": 0,
+    "defense": 0,
+    "dexterity": 0,
+    "vitality": 0,
+    "aura": 0
+  },
+  {
+    "id": 4,
+    "name": "Magician",
+    "base": 0,
+    "class_type": 3,
+    "power": 2,
+    "accuracy": 0,
+    "defense": 0,
+    "dexterity": 0,
+    "vitality": 0,
+    "aura": 2
+  },
+  {
+    "id": 5,
+    "name": "Priest",
+    "base": 0,
+    "class_type": 3,
+    "power": 0,
+    "accuracy": 0,
+    "defense": 0,
+    "dexterity": 0,
+    "vitality": 2,
+    "aura": 6
+  },
+  {
+    "id": 6,
+    "name": "Rogue",
+    "base": 0,
+    "class_type": 2,
+    "power": 1,
+    "accuracy": 0,
+    "defense": 0,
+    "dexterity": 5,
+    "vitality": 0,
+    "aura": 0
+  },
+  {
+    "id": 7,
+    "name": "Archer",
+    "base": 0,
+    "class_type": 2,
+    "power": 0,
+    "accuracy": 3,
+    "defense": 0,
+    "dexterity": 0,
+    "vitality": 0,
+    "aura": 0
+  }
+]

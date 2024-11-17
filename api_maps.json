@@ -1,0 +1,2771 @@
+{
+  "data": [
+    {
+      "name": "Import Pad-D3",
+      "index": 1,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/1"
+    },
+    {
+      "name": "Stream",
+      "index": 2,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/2"
+    },
+    {
+      "name": "Factory Control",
+      "index": 3,
+      "npcs": [
+        17,
+        18,
+        157
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/3"
+    },
+    {
+      "name": "Factory Teleport",
+      "index": 4,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/4"
+    },
+    {
+      "name": "Airlock-2",
+      "index": 5,
+      "npcs": [
+        185
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/5"
+    },
+    {
+      "name": "Shadow Desert",
+      "index": 6,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/6"
+    },
+    {
+      "name": "Shadow Desert",
+      "index": 7,
+      "npcs": [
+        102
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/7"
+    },
+    {
+      "name": "Shadow Desert",
+      "index": 8,
+      "npcs": [
+        9
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/8"
+    },
+    {
+      "name": "Shadow Desert End",
+      "index": 9,
+      "npcs": [
+        9,
+        15
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/9"
+    },
+    {
+      "name": "Airlock-1",
+      "index": 10,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/10"
+    },
+    {
+      "name": "????",
+      "index": 11,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/11"
+    },
+    {
+      "name": "Aeven Falls",
+      "index": 12,
+      "npcs": [
+        6,
+        7,
+        253
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/12"
+    },
+    {
+      "name": "Aeven Mines",
+      "index": 13,
+      "npcs": [
+        164,
+        8
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/13"
+    },
+    {
+      "name": "Aeven Mine Entrance",
+      "index": 14,
+      "npcs": [
+        37,
+        41,
+        7,
+        1
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/14"
+    },
+    {
+      "name": "Aeven",
+      "index": 15,
+      "npcs": [
+        1,
+        620,
+        7,
+        26,
+        21,
+        3,
+        27,
+        175,
+        170,
+        30,
+        29,
+        31,
+        43,
+        52,
+        167,
+        61,
+        62,
+        73,
+        74,
+        117,
+        119,
+        122,
+        619,
+        124,
+        153,
+        257,
+        155,
+        58,
+        174,
+        173,
+        33
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/15"
+    },
+    {
+      "name": "Aeven Top",
+      "index": 16,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/16"
+    },
+    {
+      "name": "Aeven Castle Garden",
+      "index": 17,
+      "npcs": [
+        20,
+        1,
+        159,
+        381
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/17"
+    },
+    {
+      "name": "Aeven West",
+      "index": 18,
+      "npcs": [
+        7,
+        5,
+        75,
+        258,
+        165
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/18"
+    },
+    {
+      "name": "Aeven Port",
+      "index": 19,
+      "npcs": [
+        2,
+        10,
+        11,
+        72,
+        94,
+        242,
+        373
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/19"
+    },
+    {
+      "name": "Aeven Church",
+      "index": 20,
+      "npcs": [
+        68
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/20"
+    },
+    {
+      "name": "Aeven Bank",
+      "index": 21,
+      "npcs": [
+        16
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/21"
+    },
+    {
+      "name": "Aeven Airport",
+      "index": 22,
+      "npcs": [
+        383,
+        387
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/22"
+    },
+    {
+      "name": "Aeven Juice Shop",
+      "index": 23,
+      "npcs": [
+        19,
+        22,
+        23,
+        24
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/23"
+    },
+    {
+      "name": "Aeven Jail",
+      "index": 24,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/24"
+    },
+    {
+      "name": "Aeven Administration",
+      "index": 25,
+      "npcs": [
+        46,
+        47
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/25"
+    },
+    {
+      "name": "Fairy Soda Pub",
+      "index": 26,
+      "npcs": [
+        25,
+        28,
+        121,
+        168
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/26"
+    },
+    {
+      "name": "Aeven Toolshop",
+      "index": 27,
+      "npcs": [
+        48,
+        49
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/27"
+    },
+    {
+      "name": "Aeven Empty Shop",
+      "index": 28,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/28"
+    },
+    {
+      "name": "Aeven Combi Shoe Shop",
+      "index": 29,
+      "npcs": [
+        38,
+        39,
+        98,
+        118,
+        59,
+        40
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/29"
+    },
+    {
+      "name": "Shopbob Bonanza",
+      "index": 30,
+      "npcs": [
+        60
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/30"
+    },
+    {
+      "name": "Ranger Shop",
+      "index": 31,
+      "npcs": [
+        50,
+        55
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/31"
+    },
+    {
+      "name": "Aeven Magic Shop",
+      "index": 32,
+      "npcs": [
+        54,
+        120
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/32"
+    },
+    {
+      "name": "Aeven Dressup Shop",
+      "index": 33,
+      "npcs": [
+        52,
+        53,
+        171,
+        174,
+        173
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/33"
+    },
+    {
+      "name": "Aeven Forge",
+      "index": 34,
+      "npcs": [
+        42,
+        63,
+        176
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/34"
+    },
+    {
+      "name": "Aeven Blacksmith",
+      "index": 35,
+      "npcs": [
+        56,
+        57,
+        123
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/35"
+    },
+    {
+      "name": "Aeven Core Master",
+      "index": 36,
+      "npcs": [
+        161,
+        162
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/36"
+    },
+    {
+      "name": "Aeven Jewelery",
+      "index": 37,
+      "npcs": [
+        35
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/37"
+    },
+    {
+      "name": "Club VV Entry",
+      "index": 38,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/38"
+    },
+    {
+      "name": "Club VV",
+      "index": 39,
+      "npcs": [
+        144,
+        145,
+        146
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/39"
+    },
+    {
+      "name": "Club VV Toilets",
+      "index": 40,
+      "npcs": [
+        149
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/40"
+    },
+    {
+      "name": "VV Basement",
+      "index": 41,
+      "npcs": [
+        152,
+        151,
+        150
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/41"
+    },
+    {
+      "name": "Aeven Farmlet",
+      "index": 43,
+      "npcs": [
+        529,
+        528,
+        3
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/43"
+    },
+    {
+      "name": "Aeven Railroads",
+      "index": 44,
+      "npcs": [
+        180,
+        549
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/44"
+    },
+    {
+      "name": "Aeven Rail Office",
+      "index": 45,
+      "npcs": [
+        550,
+        551
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/45"
+    },
+    {
+      "name": "Aeven House",
+      "index": 46,
+      "npcs": [
+        51,
+        77
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/46"
+    },
+    {
+      "name": "Aeven House 2",
+      "index": 47,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/47"
+    },
+    {
+      "name": "Aeven Milk Farm",
+      "index": 48,
+      "npcs": [
+        172,
+        169,
+        3,
+        184
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/48"
+    },
+    {
+      "name": "Aeven Blobsie Gardens",
+      "index": 49,
+      "npcs": [
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        183
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/49"
+    },
+    {
+      "name": "Aeven Spider Basement",
+      "index": 50,
+      "npcs": [
+        78
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/50"
+    },
+    {
+      "name": "Creepy Basement Lair",
+      "index": 52,
+      "npcs": [
+        293,
+        292
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/52"
+    },
+    {
+      "name": "Creepy Basement",
+      "index": 53,
+      "npcs": [
+        293
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/53"
+    },
+    {
+      "name": "Creepy House",
+      "index": 54,
+      "npcs": [
+        36,
+        2,
+        263
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/54"
+    },
+    {
+      "name": "Aeven Outlet",
+      "index": 55,
+      "npcs": [
+        166,
+        12,
+        13,
+        3,
+        178
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/55"
+    },
+    {
+      "name": "Stronghold Woods",
+      "index": 56,
+      "npcs": [
+        5,
+        7,
+        126,
+        127
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/56"
+    },
+    {
+      "name": "Aeven Stronghold",
+      "index": 57,
+      "npcs": [
+        1,
+        7,
+        154
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/57"
+    },
+    {
+      "name": "Stronghold Office",
+      "index": 58,
+      "npcs": [
+        71
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/58"
+    },
+    {
+      "name": "Aeven Port Shop",
+      "index": 59,
+      "npcs": [
+        51
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/59"
+    },
+    {
+      "name": "Aeven Port Shop",
+      "index": 60,
+      "npcs": [
+        51
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/60"
+    },
+    {
+      "name": "Babs New Hairsalon",
+      "index": 61,
+      "npcs": [
+        34,
+        32,
+        66
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/61"
+    },
+    {
+      "name": "Aeven Inn",
+      "index": 62,
+      "npcs": [
+        67,
+        250
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/62"
+    },
+    {
+      "name": "Aeven Inn Upstairs",
+      "index": 63,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/63"
+    },
+    {
+      "name": "Aeven Inn Room",
+      "index": 64,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/64"
+    },
+    {
+      "name": "Aeven Library",
+      "index": 65,
+      "npcs": [
+        259,
+        261,
+        260
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/65"
+    },
+    {
+      "name": "Buddy Care Center",
+      "index": 66,
+      "npcs": [
+        255
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/66"
+    },
+    {
+      "name": "Pokeys Secret",
+      "index": 67,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/67"
+    },
+    {
+      "name": "Farm House",
+      "index": 68,
+      "npcs": [
+        69,
+        70
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/68"
+    },
+    {
+      "name": "Farm Basement",
+      "index": 69,
+      "npcs": [
+        2,
+        4,
+        177
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/69"
+    },
+    {
+      "name": "Green Lake",
+      "index": 70,
+      "npcs": [
+        4,
+        6,
+        44,
+        125
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/70"
+    },
+    {
+      "name": "Deep Mine Gate",
+      "index": 71,
+      "npcs": [
+        45,
+        163
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/71"
+    },
+    {
+      "name": "Deep Mine",
+      "index": 72,
+      "npcs": [
+        14
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/72"
+    },
+    {
+      "name": "Orcys Room",
+      "index": 80,
+      "npcs": [
+        64,
+        65
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/80"
+    },
+    {
+      "name": "Pacy Cave",
+      "index": 81,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/81"
+    },
+    {
+      "name": "Aeven Beach",
+      "index": 82,
+      "npcs": [
+        76
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/82"
+    },
+    {
+      "name": "Aeven Arena",
+      "index": 83,
+      "npcs": [
+        158
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/83"
+    },
+    {
+      "name": "Tropica Port",
+      "index": 85,
+      "npcs": [
+        79,
+        80,
+        81,
+        103,
+        86,
+        87,
+        95
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/85"
+    },
+    {
+      "name": "Tropica Beach",
+      "index": 86,
+      "npcs": [
+        79,
+        80,
+        81
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/86"
+    },
+    {
+      "name": "Tropica Beach",
+      "index": 87,
+      "npcs": [
+        79,
+        80,
+        81,
+        100
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/87"
+    },
+    {
+      "name": "Tropica Village",
+      "index": 89,
+      "npcs": [
+        89,
+        88,
+        91
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/89"
+    },
+    {
+      "name": "Tropica Octemple",
+      "index": 90,
+      "npcs": [
+        81
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/90"
+    },
+    {
+      "name": "The Octemple",
+      "index": 91,
+      "npcs": [
+        82,
+        83
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/91"
+    },
+    {
+      "name": "Octos Lair",
+      "index": 92,
+      "npcs": [
+        84,
+        85
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/92"
+    },
+    {
+      "name": "Tropica Bay",
+      "index": 93,
+      "npcs": [
+        79,
+        80,
+        81,
+        99
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/93"
+    },
+    {
+      "name": "Juice-It Tropica",
+      "index": 94,
+      "npcs": [
+        92,
+        97
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/94"
+    },
+    {
+      "name": "Tropica Jewelry",
+      "index": 95,
+      "npcs": [
+        93
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/95"
+    },
+    {
+      "name": "Tropica House",
+      "index": 96,
+      "npcs": [
+        90
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/96"
+    },
+    {
+      "name": "Turtle Island",
+      "index": 99,
+      "npcs": [
+        79
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/99"
+    },
+    {
+      "name": "Sea Liner 101",
+      "index": 101,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/101"
+    },
+    {
+      "name": "Sea Liner 102",
+      "index": 102,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/102"
+    },
+    {
+      "name": "Sea Liner 103",
+      "index": 103,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/103"
+    },
+    {
+      "name": "Sea Liner 104",
+      "index": 104,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/104"
+    },
+    {
+      "name": "Sea Liner 105",
+      "index": 105,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/105"
+    },
+    {
+      "name": "Sea Liner 106",
+      "index": 106,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/106"
+    },
+    {
+      "name": "Sea Liner 107",
+      "index": 107,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/107"
+    },
+    {
+      "name": "Sea Liner 108",
+      "index": 108,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/108"
+    },
+    {
+      "name": "Sea Liner 109",
+      "index": 109,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/109"
+    },
+    {
+      "name": "Sea Liner 110",
+      "index": 110,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/110"
+    },
+    {
+      "name": "Sea Liner 111",
+      "index": 111,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/111"
+    },
+    {
+      "name": "Sea Liner 112",
+      "index": 112,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/112"
+    },
+    {
+      "name": "Air Liner 121",
+      "index": 121,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/121"
+    },
+    {
+      "name": "Air Liner 122",
+      "index": 122,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/122"
+    },
+    {
+      "name": "Air Liner 123",
+      "index": 123,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/123"
+    },
+    {
+      "name": "Air Liner 124",
+      "index": 124,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/124"
+    },
+    {
+      "name": "Train 144",
+      "index": 144,
+      "npcs": [
+        179
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/144"
+    },
+    {
+      "name": "Train 145",
+      "index": 145,
+      "npcs": [
+        179
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/145"
+    },
+    {
+      "name": "Skywonder Airport",
+      "index": 151,
+      "npcs": [
+        388,
+        104,
+        105
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/151"
+    },
+    {
+      "name": "Skywonder",
+      "index": 152,
+      "npcs": [
+        186,
+        187,
+        21
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/152"
+    },
+    {
+      "name": "Skywonder Central",
+      "index": 153,
+      "npcs": [
+        186
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/153"
+    },
+    {
+      "name": "Skywonder Edge",
+      "index": 154,
+      "npcs": [
+        187,
+        186,
+        112,
+        113
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/154"
+    },
+    {
+      "name": "Skywonder Juice-It",
+      "index": 155,
+      "npcs": [
+        19,
+        108
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/155"
+    },
+    {
+      "name": "Skywonder Toilets",
+      "index": 156,
+      "npcs": [
+        110
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/156"
+    },
+    {
+      "name": "Skywonder Bank",
+      "index": 157,
+      "npcs": [
+        109,
+        111
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/157"
+    },
+    {
+      "name": "Skywonder Gear Shop",
+      "index": 158,
+      "npcs": [
+        107
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/158"
+    },
+    {
+      "name": "Skywonder Hat Shop",
+      "index": 159,
+      "npcs": [
+        106
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/159"
+    },
+    {
+      "name": "Griffon Clouds",
+      "index": 160,
+      "npcs": [
+        188
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/160"
+    },
+    {
+      "name": "Toilet Basement",
+      "index": 161,
+      "npcs": [
+        4
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/161"
+    },
+    {
+      "name": "Toilet Basement",
+      "index": 162,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/162"
+    },
+    {
+      "name": "Toilet Basement",
+      "index": 163,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/163"
+    },
+    {
+      "name": "Moonmurks Port",
+      "index": 165,
+      "npcs": [
+        198,
+        194,
+        195,
+        201,
+        202
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/165"
+    },
+    {
+      "name": "Moonmurks",
+      "index": 166,
+      "npcs": [
+        193,
+        195,
+        196,
+        202,
+        203,
+        201,
+        204
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/166"
+    },
+    {
+      "name": "Moonmurks Shrine",
+      "index": 167,
+      "npcs": [
+        303
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/167"
+    },
+    {
+      "name": "Outpost House",
+      "index": 168,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/168"
+    },
+    {
+      "name": "Moonmurks Outpost",
+      "index": 169,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/169"
+    },
+    {
+      "name": "Moonmurks Temple",
+      "index": 170,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/170"
+    },
+    {
+      "name": "Frogo's Temple",
+      "index": 171,
+      "npcs": [
+        303,
+        203
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/171"
+    },
+    {
+      "name": "Frogo's Lair",
+      "index": 172,
+      "npcs": [
+        302
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/172"
+    },
+    {
+      "name": "Port of Despair",
+      "index": 175,
+      "npcs": [
+        374,
+        211
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/175"
+    },
+    {
+      "name": "Woods Of Despair",
+      "index": 176,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/176"
+    },
+    {
+      "name": "Woods Of Despair",
+      "index": 177,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/177"
+    },
+    {
+      "name": "Woods Of Despair",
+      "index": 178,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/178"
+    },
+    {
+      "name": "Woods Of Despair*",
+      "index": 179,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/179"
+    },
+    {
+      "name": "Woods Of Despair",
+      "index": 180,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/180"
+    },
+    {
+      "name": "Woods Of Despair",
+      "index": 181,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/181"
+    },
+    {
+      "name": "Woods Of Despair",
+      "index": 182,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/182"
+    },
+    {
+      "name": "Woods Of Despair",
+      "index": 183,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/183"
+    },
+    {
+      "name": "Woods Of Despair",
+      "index": 184,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/184"
+    },
+    {
+      "name": "Woods Of Despair",
+      "index": 185,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/185"
+    },
+    {
+      "name": "Woods Of Despair",
+      "index": 186,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/186"
+    },
+    {
+      "name": "Chest Of Despair",
+      "index": 187,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/187"
+    },
+    {
+      "name": "Despair Hideout",
+      "index": 188,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/188"
+    },
+    {
+      "name": "Hermit Hut",
+      "index": 189,
+      "npcs": [
+        212
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/189"
+    },
+    {
+      "name": "Aeven Plains",
+      "index": 190,
+      "npcs": [
+        284
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/190"
+    },
+    {
+      "name": "Aeven Plains",
+      "index": 191,
+      "npcs": [
+        284
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/191"
+    },
+    {
+      "name": "Anundo",
+      "index": 192,
+      "npcs": [
+        215,
+        216,
+        217,
+        219,
+        382
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/192"
+    },
+    {
+      "name": "Anundo Supreme Hut",
+      "index": 193,
+      "npcs": [
+        286,
+        287
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/193"
+    },
+    {
+      "name": "Anundo Bank Hut",
+      "index": 194,
+      "npcs": [
+        214
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/194"
+    },
+    {
+      "name": "Anundo Panda Kopan",
+      "index": 195,
+      "npcs": [
+        218
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/195"
+    },
+    {
+      "name": "Butterfly Plains",
+      "index": 197,
+      "npcs": [
+        289,
+        290
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/197"
+    },
+    {
+      "name": "Gnome Hideout",
+      "index": 198,
+      "npcs": [
+        142
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/198"
+    },
+    {
+      "name": "Gnome Hideout",
+      "index": 199,
+      "npcs": [
+        143
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/199"
+    },
+    {
+      "name": "Green Cave Rescue",
+      "index": 209,
+      "npcs": [
+        251,
+        306
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/209"
+    },
+    {
+      "name": "Green Cave",
+      "index": 210,
+      "npcs": [
+        291,
+        83,
+        254
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/210"
+    },
+    {
+      "name": "Cave System Interlink",
+      "index": 211,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/211"
+    },
+    {
+      "name": "Death Cave",
+      "index": 212,
+      "npcs": [
+        288
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/212"
+    },
+    {
+      "name": "Reaper Cave",
+      "index": 213,
+      "npcs": [
+        285
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/213"
+    },
+    {
+      "name": "Cave Cavity",
+      "index": 214,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/214"
+    },
+    {
+      "name": "Soul Cave",
+      "index": 215,
+      "npcs": [
+        288,
+        305
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/215"
+    },
+    {
+      "name": "Soul Of Reaper",
+      "index": 216,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/216"
+    },
+    {
+      "name": "Centaur Grove Port",
+      "index": 218,
+      "npcs": [
+        243,
+        5
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/218"
+    },
+    {
+      "name": "Centaur Grove",
+      "index": 219,
+      "npcs": [
+        296,
+        298,
+        297
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/219"
+    },
+    {
+      "name": "Centaur Town",
+      "index": 220,
+      "npcs": [
+        295
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/220"
+    },
+    {
+      "name": "Centaur Grove West",
+      "index": 221,
+      "npcs": [
+        297,
+        296,
+        298
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/221"
+    },
+    {
+      "name": "Centaur Bank",
+      "index": 223,
+      "npcs": [
+        238
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/223"
+    },
+    {
+      "name": "Centaur House",
+      "index": 224,
+      "npcs": [
+        237
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/224"
+    },
+    {
+      "name": "Centaur Shop",
+      "index": 225,
+      "npcs": [
+        239
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/225"
+    },
+    {
+      "name": "Centaur Wine Farm",
+      "index": 226,
+      "npcs": [
+        241,
+        236
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/226"
+    },
+    {
+      "name": "Centaur Outhouse",
+      "index": 227,
+      "npcs": [
+        240
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/227"
+    },
+    {
+      "name": "Centaur Cellar",
+      "index": 228,
+      "npcs": [
+        300
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/228"
+    },
+    {
+      "name": "Stallion Cellar",
+      "index": 229,
+      "npcs": [
+        301
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/229"
+    },
+    {
+      "name": "Haunted Port",
+      "index": 236,
+      "npcs": [
+        372
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/236"
+    },
+    {
+      "name": "Haunted Hallows",
+      "index": 237,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/237"
+    },
+    {
+      "name": "Haunted Hallows",
+      "index": 238,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/238"
+    },
+    {
+      "name": "Haunted House F1",
+      "index": 240,
+      "npcs": [
+        312,
+        2
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/240"
+    },
+    {
+      "name": "Haunted House F2",
+      "index": 241,
+      "npcs": [
+        312,
+        2,
+        234
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/241"
+    },
+    {
+      "name": "Dark Tailor",
+      "index": 249,
+      "npcs": [
+        281,
+        279,
+        280
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/249"
+    },
+    {
+      "name": "Snowlandia",
+      "index": 250,
+      "npcs": [
+        384,
+        389
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/250"
+    },
+    {
+      "name": "Snowlandia Town",
+      "index": 251,
+      "npcs": [
+        128,
+        129,
+        321,
+        130,
+        131
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/251"
+    },
+    {
+      "name": "Ice Cave",
+      "index": 252,
+      "npcs": [
+        323,
+        320
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/252"
+    },
+    {
+      "name": "Ice Cave",
+      "index": 253,
+      "npcs": [
+        323,
+        320
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/253"
+    },
+    {
+      "name": "Ice Cave",
+      "index": 254,
+      "npcs": [
+        323,
+        320
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/254"
+    },
+    {
+      "name": "Ice Cave",
+      "index": 255,
+      "npcs": [
+        320
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/255"
+    },
+    {
+      "name": "Ice Chamber",
+      "index": 256,
+      "npcs": [
+        324
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/256"
+    },
+    {
+      "name": "Snowlandia Plateau",
+      "index": 257,
+      "npcs": [
+        321,
+        319
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/257"
+    },
+    {
+      "name": "Plateau Intercave",
+      "index": 258,
+      "npcs": [
+        323,
+        320
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/258"
+    },
+    {
+      "name": "Snowlandia Top",
+      "index": 259,
+      "npcs": [
+        319,
+        325
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/259"
+    },
+    {
+      "name": "Snowlandia Bank",
+      "index": 260,
+      "npcs": [
+        132
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/260"
+    },
+    {
+      "name": "Snowlandia Jewelry",
+      "index": 261,
+      "npcs": [
+        133
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/261"
+    },
+    {
+      "name": "Snowlandia Rental",
+      "index": 262,
+      "npcs": [
+        134
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/262"
+    },
+    {
+      "name": "Snowlandia Boutique",
+      "index": 263,
+      "npcs": [
+        136,
+        137,
+        138,
+        173,
+        174
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/263"
+    },
+    {
+      "name": "Snowlandia Heathut",
+      "index": 264,
+      "npcs": [
+        135
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/264"
+    },
+    {
+      "name": "Snowlandia Forge",
+      "index": 265,
+      "npcs": [
+        139,
+        140
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/265"
+    },
+    {
+      "name": "Santa Crashsite",
+      "index": 266,
+      "npcs": [
+        612,
+        613
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/266"
+    },
+    {
+      "name": "Swaggy Cave",
+      "index": 267,
+      "npcs": [
+        614,
+        616,
+        617
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/267"
+    },
+    {
+      "name": "Nostalgia Port",
+      "index": 270,
+      "npcs": [
+        5,
+        6,
+        244
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/270"
+    },
+    {
+      "name": "Nostalgia Port Shop",
+      "index": 271,
+      "npcs": [
+        51
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/271"
+    },
+    {
+      "name": "Nostalgia Hub",
+      "index": 272,
+      "npcs": [
+        12,
+        13,
+        6,
+        7
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/272"
+    },
+    {
+      "name": "Nostalgia Traverse",
+      "index": 273,
+      "npcs": [
+        5,
+        6
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/273"
+    },
+    {
+      "name": "Nostalgia Dock",
+      "index": 274,
+      "npcs": [
+        6,
+        378
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/274"
+    },
+    {
+      "name": "Nostalgia Path",
+      "index": 275,
+      "npcs": [
+        282,
+        6
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/275"
+    },
+    {
+      "name": "Nostalgia Edge",
+      "index": 276,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/276"
+    },
+    {
+      "name": "Nostalgia Forest",
+      "index": 277,
+      "npcs": [
+        282,
+        1
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/277"
+    },
+    {
+      "name": "Nostalgia Chef",
+      "index": 278,
+      "npcs": [
+        256
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/278"
+    },
+    {
+      "name": "Nostalgia Juice Shop",
+      "index": 279,
+      "npcs": [
+        248
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/279"
+    },
+    {
+      "name": "Nostalgia House",
+      "index": 280,
+      "npcs": [
+        247
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/280"
+    },
+    {
+      "name": "Nostalgia Collector",
+      "index": 281,
+      "npcs": [
+        252
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/281"
+    },
+    {
+      "name": "Josand Port",
+      "index": 287,
+      "npcs": [
+        96,
+        278
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/287"
+    },
+    {
+      "name": "Josand Hub",
+      "index": 288,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/288"
+    },
+    {
+      "name": "Josand Town",
+      "index": 289,
+      "npcs": [
+        265,
+        270,
+        275,
+        271,
+        274,
+        3,
+        7,
+        26,
+        488,
+        173,
+        174,
+        175,
+        61,
+        277
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/289"
+    },
+    {
+      "name": "Josand Desert",
+      "index": 290,
+      "npcs": [
+        330,
+        331,
+        329
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/290"
+    },
+    {
+      "name": "Josand Factory Cave",
+      "index": 291,
+      "npcs": [
+        329,
+        331,
+        330,
+        404
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/291"
+    },
+    {
+      "name": "Josand Oasis",
+      "index": 292,
+      "npcs": [
+        337,
+        338
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/292"
+    },
+    {
+      "name": "Josand Outer Desert",
+      "index": 293,
+      "npcs": [
+        264,
+        341
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/293"
+    },
+    {
+      "name": "Josand Big Mansion",
+      "index": 296,
+      "npcs": [
+        266,
+        276
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/296"
+    },
+    {
+      "name": "Josand Shop",
+      "index": 297,
+      "npcs": [
+        19,
+        22
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/297"
+    },
+    {
+      "name": "Josand House",
+      "index": 298,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/298"
+    },
+    {
+      "name": "Josand House",
+      "index": 299,
+      "npcs": [
+        272,
+        273
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/299"
+    },
+    {
+      "name": "Josand Bank",
+      "index": 300,
+      "npcs": [
+        267
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/300"
+    },
+    {
+      "name": "Josand Jewels",
+      "index": 301,
+      "npcs": [
+        268
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/301"
+    },
+    {
+      "name": "Josand Armory",
+      "index": 302,
+      "npcs": [
+        269
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/302"
+    },
+    {
+      "name": "Josand House",
+      "index": 303,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/303"
+    },
+    {
+      "name": "Josand Secret",
+      "index": 304,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/304"
+    },
+    {
+      "name": "Josand Abbyss",
+      "index": 306,
+      "npcs": [
+        277
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/306"
+    },
+    {
+      "name": "Scuba Cave",
+      "index": 307,
+      "npcs": [
+        448
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/307"
+    },
+    {
+      "name": "Factory Entry",
+      "index": 308,
+      "npcs": [
+        332
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/308"
+    },
+    {
+      "name": "Factory Storage",
+      "index": 309,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/309"
+    },
+    {
+      "name": "Factory Main Floor",
+      "index": 310,
+      "npcs": [
+        416,
+        417,
+        418,
+        421,
+        404
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/310"
+    },
+    {
+      "name": "Factory Basement",
+      "index": 311,
+      "npcs": [
+        404,
+        406
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/311"
+    },
+    {
+      "name": "Factory Floor-1",
+      "index": 312,
+      "npcs": [
+        405,
+        421,
+        417,
+        424
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/312"
+    },
+    {
+      "name": "Factory Floor-2",
+      "index": 313,
+      "npcs": [
+        405,
+        418,
+        417,
+        425
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/313"
+    },
+    {
+      "name": "Factory Floor-3",
+      "index": 314,
+      "npcs": [
+        405,
+        421,
+        417,
+        416,
+        426
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/314"
+    },
+    {
+      "name": "Factory Floor-4 Lair",
+      "index": 315,
+      "npcs": [
+        405,
+        422
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/315"
+    },
+    {
+      "name": "Wacku Wilds Port",
+      "index": 316,
+      "npcs": [
+        245
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/316"
+    },
+    {
+      "name": "Wacku Water Grotto",
+      "index": 317,
+      "npcs": [
+        349
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/317"
+    },
+    {
+      "name": "Wacku Wilds",
+      "index": 318,
+      "npcs": [
+        345,
+        346,
+        347
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/318"
+    },
+    {
+      "name": "Wacku Treehouse",
+      "index": 319,
+      "npcs": [
+        345,
+        346,
+        347,
+        369
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/319"
+    },
+    {
+      "name": "Nibby Treehouse",
+      "index": 320,
+      "npcs": [
+        368
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/320"
+    },
+    {
+      "name": "Bigtooth Cave",
+      "index": 321,
+      "npcs": [
+        349
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/321"
+    },
+    {
+      "name": "Bigtooth Lair",
+      "index": 322,
+      "npcs": [
+        343,
+        344
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/322"
+    },
+    {
+      "name": "Wacku Deep Wilds",
+      "index": 326,
+      "npcs": [
+        352,
+        344,
+        345
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/326"
+    },
+    {
+      "name": "Hidden Monkey Cave",
+      "index": 327,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/327"
+    },
+    {
+      "name": "Hidden Monkey Cave",
+      "index": 328,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/328"
+    },
+    {
+      "name": "Monkey Island",
+      "index": 329,
+      "npcs": [
+        363,
+        364,
+        353,
+        360,
+        361,
+        362,
+        354,
+        359,
+        79,
+        80
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/329"
+    },
+    {
+      "name": "Monkey Island Hut",
+      "index": 330,
+      "npcs": [
+        367
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/330"
+    },
+    {
+      "name": "Monkey Bar",
+      "index": 331,
+      "npcs": [
+        363
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/331"
+    },
+    {
+      "name": "Monkey King Hall",
+      "index": 332,
+      "npcs": [
+        355,
+        356,
+        357,
+        358,
+        363,
+        365
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/332"
+    },
+    {
+      "name": "Monkey Shipwreck",
+      "index": 333,
+      "npcs": [
+        344
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/333"
+    },
+    {
+      "name": "Wacku Lookout",
+      "index": 334,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/334"
+    },
+    {
+      "name": "Wacku Lookout",
+      "index": 335,
+      "npcs": [
+        363
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/335"
+    },
+    {
+      "name": "Ancient Airport",
+      "index": 343,
+      "npcs": [
+        390,
+        385
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/343"
+    },
+    {
+      "name": "Ancient Garden",
+      "index": 344,
+      "npcs": [
+        399
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/344"
+    },
+    {
+      "name": "Ancient Village",
+      "index": 345,
+      "npcs": [
+        21
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/345"
+    },
+    {
+      "name": "Ancient Maya Jewelry",
+      "index": 346,
+      "npcs": [
+        394
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/346"
+    },
+    {
+      "name": "Ancient Gaia Outfitter",
+      "index": 347,
+      "npcs": [
+        396
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/347"
+    },
+    {
+      "name": "Ancient Plato Armory",
+      "index": 348,
+      "npcs": [
+        395,
+        397,
+        398,
+        176
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/348"
+    },
+    {
+      "name": "Ancient Bank",
+      "index": 350,
+      "npcs": [
+        393
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/350"
+    },
+    {
+      "name": "Ancient House",
+      "index": 351,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/351"
+    },
+    {
+      "name": "Ancient Garden North",
+      "index": 352,
+      "npcs": [
+        407
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/352"
+    },
+    {
+      "name": "Ancient Garden South",
+      "index": 353,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/353"
+    },
+    {
+      "name": "Fungal Cave",
+      "index": 354,
+      "npcs": [
+        408,
+        409
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/354"
+    },
+    {
+      "name": "Fungal Schimmel Lair",
+      "index": 355,
+      "npcs": [
+        410,
+        411
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/355"
+    },
+    {
+      "name": "Shadow Island",
+      "index": 360,
+      "npcs": [
+        375
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/360"
+    },
+    {
+      "name": "Shadow Cave",
+      "index": 361,
+      "npcs": [
+        501,
+        502
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/361"
+    },
+    {
+      "name": "Shadow Border",
+      "index": 362,
+      "npcs": [
+        490,
+        491,
+        493,
+        494,
+        495,
+        496
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/362"
+    },
+    {
+      "name": "Shadow Church",
+      "index": 364,
+      "npcs": [
+        492
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/364"
+    },
+    {
+      "name": "Demon Chest",
+      "index": 365,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/365"
+    },
+    {
+      "name": "Underworld",
+      "index": 367,
+      "npcs": [
+        510,
+        511,
+        512,
+        513,
+        514
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/367"
+    },
+    {
+      "name": "Sub Liner 381*",
+      "index": 381,
+      "npcs": [
+        448,
+        265,
+        266
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/381"
+    },
+    {
+      "name": "Sub Liner 381",
+      "index": 382,
+      "npcs": [
+        448,
+        265,
+        266
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/382"
+    },
+    {
+      "name": "Sub Liner 381",
+      "index": 383,
+      "npcs": [
+        449
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/383"
+    },
+    {
+      "name": "Sub Liner 384",
+      "index": 384,
+      "npcs": [
+        450
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/384"
+    },
+    {
+      "name": "Sub Crashsite",
+      "index": 390,
+      "npcs": [
+        433,
+        434,
+        438,
+        439,
+        440,
+        445
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/390"
+    },
+    {
+      "name": "Atlantis Substation",
+      "index": 391,
+      "npcs": [
+        434,
+        438,
+        439,
+        440,
+        456
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/391"
+    },
+    {
+      "name": "Atlantis Big Ocean",
+      "index": 392,
+      "npcs": [
+        433,
+        434,
+        438,
+        439,
+        440,
+        457,
+        459
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/392"
+    },
+    {
+      "name": "Atlantis Jellycave",
+      "index": 393,
+      "npcs": [
+        435
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/393"
+    },
+    {
+      "name": "Atlantis City",
+      "index": 394,
+      "npcs": [
+        433,
+        434
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/394"
+    },
+    {
+      "name": "Atlantis Bank",
+      "index": 395,
+      "npcs": [
+        485
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/395"
+    },
+    {
+      "name": "Atlantis Potions",
+      "index": 396,
+      "npcs": [
+        477
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/396"
+    },
+    {
+      "name": "Atlantis House",
+      "index": 397,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/397"
+    },
+    {
+      "name": "Atlantis Basement",
+      "index": 398,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/398"
+    },
+    {
+      "name": "Atlantis Attic",
+      "index": 399,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/399"
+    },
+    {
+      "name": "Atlantis Neptune",
+      "index": 400,
+      "npcs": [
+        452,
+        455,
+        433,
+        464,
+        465,
+        453
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/400"
+    },
+    {
+      "name": "Atlantis Elfish Bar",
+      "index": 401,
+      "npcs": [
+        461,
+        462,
+        463,
+        471,
+        472,
+        473,
+        474,
+        475
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/401"
+    },
+    {
+      "name": "Atlantis Shop",
+      "index": 402,
+      "npcs": [
+        478,
+        479,
+        480
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/402"
+    },
+    {
+      "name": "Atlantis Workshop",
+      "index": 403,
+      "npcs": [
+        175,
+        174,
+        173
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/403"
+    },
+    {
+      "name": "Atlantis Gear",
+      "index": 405,
+      "npcs": [
+        481
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/405"
+    },
+    {
+      "name": "Atlantis Pathway",
+      "index": 408,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/408"
+    },
+    {
+      "name": "Atlantis Shipwreck",
+      "index": 409,
+      "npcs": [
+        438,
+        439,
+        440,
+        445
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/409"
+    },
+    {
+      "name": "Deepsea Platform",
+      "index": 419,
+      "npcs": [
+        446,
+        458,
+        2
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/419"
+    },
+    {
+      "name": "Shark Lair",
+      "index": 420,
+      "npcs": [
+        447
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/420"
+    },
+    {
+      "name": "Hallodale Railroads",
+      "index": 701,
+      "npcs": [
+        181,
+        532
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/701"
+    },
+    {
+      "name": "Hallodale Rail Office",
+      "index": 702,
+      "npcs": [
+        551,
+        550
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/702"
+    },
+    {
+      "name": "Hallodale",
+      "index": 703,
+      "npcs": [
+        553,
+        173,
+        174,
+        175,
+        52,
+        1,
+        2,
+        7,
+        3,
+        554,
+        563,
+        564
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/703"
+    },
+    {
+      "name": "Hallodale Port",
+      "index": 704,
+      "npcs": [
+        560,
+        561,
+        559,
+        565
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/704"
+    },
+    {
+      "name": "Hallodale Bank",
+      "index": 705,
+      "npcs": [
+        552
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/705"
+    },
+    {
+      "name": "Hallodale Blacksmith",
+      "index": 706,
+      "npcs": [
+        555,
+        558
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/706"
+    },
+    {
+      "name": "Hallodale Forge",
+      "index": 707,
+      "npcs": [
+        176
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/707"
+    },
+    {
+      "name": "Hallodale Potions",
+      "index": 708,
+      "npcs": [
+        556
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/708"
+    },
+    {
+      "name": "Hallodale Works",
+      "index": 709,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/709"
+    },
+    {
+      "name": "Hallodale Inn",
+      "index": 710,
+      "npcs": [
+        557
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/710"
+    },
+    {
+      "name": "Hallodale Swap",
+      "index": 711,
+      "npcs": [
+        43,
+        607,
+        608
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/711"
+    },
+    {
+      "name": "Hallodale North",
+      "index": 730,
+      "npcs": [
+        562,
+        534,
+        535,
+        532,
+        1
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/730"
+    },
+    {
+      "name": "Hallodale North",
+      "index": 731,
+      "npcs": [
+        532,
+        535,
+        534,
+        536
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/731"
+    },
+    {
+      "name": "Hallodale Antnest",
+      "index": 732,
+      "npcs": [
+        536,
+        537
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/732"
+    },
+    {
+      "name": "Antnest Hatchery",
+      "index": 733,
+      "npcs": [
+        537
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/733"
+    },
+    {
+      "name": "Antnest Lair",
+      "index": 734,
+      "npcs": [
+        537,
+        538
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/734"
+    },
+    {
+      "name": "???",
+      "index": 999,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/999"
+    },
+    {
+      "name": "A1200 Town",
+      "index": 1200,
+      "npcs": [
+        487
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/1200"
+    },
+    {
+      "name": "A1201 Base",
+      "index": 1201,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/1201"
+    },
+    {
+      "name": "A1202 Maze",
+      "index": 1202,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/1202"
+    },
+    {
+      "name": "A1203 Test",
+      "index": 1203,
+      "npcs": [
+        559,
+        560,
+        561
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/1203"
+    },
+    {
+      "name": "A1204 Somewhere",
+      "index": 1204,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/1204"
+    },
+    {
+      "name": "A1205 Test2",
+      "index": 1205,
+      "npcs": [
+        627,
+        628,
+        629,
+        630
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/1205"
+    },
+    {
+      "name": "A1206 NpcTest",
+      "index": 1206,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/1206"
+    },
+    {
+      "name": "Freeze Tag Hub",
+      "index": 1301,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/1301"
+    },
+    {
+      "name": "Freeze Tag Arena",
+      "index": 1302,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/1302"
+    },
+    {
+      "name": "Capture Hub",
+      "index": 1303,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/1303"
+    },
+    {
+      "name": "Capture Arena",
+      "index": 1304,
+      "npcs": [
+        601,
+        600,
+        602,
+        599
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/1304"
+    },
+    {
+      "name": "Capture Hub XL",
+      "index": 1305,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/1305"
+    },
+    {
+      "name": "Capture Arena XL",
+      "index": 1306,
+      "npcs": [
+        598,
+        599,
+        600,
+        601,
+        602
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/1306"
+    },
+    {
+      "name": "WackaMole Hub",
+      "index": 1311,
+      "npcs": [
+        638
+      ],
+      "url": "https://eor-api.exile-studios.com/api/maps/1311"
+    },
+    {
+      "name": "WackaMole Arena",
+      "index": 1312,
+      "npcs": [],
+      "url": "https://eor-api.exile-studios.com/api/maps/1312"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Wanderer",
+      "url": "https://eor-api.exile-studios.com/api/classes/1"
+    },
+    {
+      "id": 2,
+      "name": "Paladin",
+      "url": "https://eor-api.exile-studios.com/api/classes/2"
+    },
+    {
+      "id": 3,
+      "name": "Warrior",
+      "url": "https://eor-api.exile-studios.com/api/classes/3"
+    },
+    {
+      "id": 4,
+      "name": "Magician",
+      "url": "https://eor-api.exile-studios.com/api/classes/4"
+    },
+    {
+      "id": 5,
+      "name": "Priest",
+      "url": "https://eor-api.exile-studios.com/api/classes/5"
+    },
+    {
+      "id": 6,
+      "name": "Rogue",
+      "url": "https://eor-api.exile-studios.com/api/classes/6"
+    },
+    {
+      "id": 7,
+      "name": "Archer",
+      "url": "https://eor-api.exile-studios.com/api/classes/7"
+    }
+  ]
+}
